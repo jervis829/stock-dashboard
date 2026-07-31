@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>股票一览 - 自选股监控</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="header">
+    <h1>📋 股票一览</h1>
+    <div class="header-info">
+      <span>数据日期: <strong id="data-date">2026-08-01</strong></span>
+      <span>持仓 <strong id="stock-count">10</strong> 只</span>
+    </div>
+  </header>
+
+  <nav class="nav">
+    <a href="index.html">总览</a>
+    <a href="dashboard.html" class="active">股票一览</a>
+    <a href="data/watchlist.json" target="_blank">数据源</a>
+  </nav>
+
+  <div class="container">
+
+    <!-- 概览卡片 -->
+    <div class="overview-cards" id="overview-cards">
+      <div class="overview-card card-healthy">
+        <div class="card-label">🟢 健康</div>
+        <div class="card-value" id="cnt-healthy">0</div>
+        <div class="card-sub">可持有/可买</div>
+      </div>
+      <div class="overview-card card-warning">
+        <div class="card-label">🟡 警示</div>
+        <div class="card-value" id="cnt-warning">0</div>
+        <div class="card-sub">观察中</div>
+      </div>
+      <div class="overview-card card-danger">
+        <div class="card-label">🔴 危险</div>
+        <div class="card-value" id="cnt-danger">0</div>
+        <div class="card-sub">建议剔除</div>
+      </div>
+      <div class="overview-card card-triggers">
+        <div class="card-label">🔔 触发信号</div>
+        <div class="card-value" id="cnt-trigger">0</div>
+        <div class="card-sub">买卖点/止损</div>
+      </div>
+    </div>
+
+    <!-- 工具栏 -->
+    <div class="toolbar">
+      <input type="text" id="search-input" placeholder="🔍 搜索代码/名称/板块..." class="search-input">
+      <select id="filter-health" class="filter-select">
+        <option value="all">全部状态</option>
+        <option value="healthy">🟢 健康</option>
+        <option value="warning">🟡 警示</option>
+        <option value="danger">🔴 危险</option>
+      </select>
+      <select id="filter-sector" class="filter-select">
+        <option value="all">全部板块</option>
+      </select>
+      <select id="sort-select" class="filter-select">
+        <option value="score-desc">评分↓</option>
+        <option value="score-asc">评分↑</option>
+        <option value="change-desc">涨幅↓</option>
+        <option value="change-asc">涨幅↑</option>
+        <option value="price-desc">价格↓</option>
+        <option value="price-asc">价格↑</option>
+        <option value="ratio-buy">距买点↑</option>
+        <option value="ratio-stop">距止损↓</option>
+      </select>
+    </div>
+
+    <!-- 股票一览表格 -->
+    <div class="section">
+      <h2>📋 持仓一览（共 <span id="total-count">0</span> 只）</h2>
+      <div class="table-wrap">
+        <table class="stock-table" id="stock-table">
+          <thead>
+            <tr>
+              <th>代码</th>
+              <th>名称</th>
+              <th>板块</th>
+              <th class="num">现价</th>
+              <th class="num">涨跌幅</th>
+              <th class="num">7日涨停</th>
+              <th class="num">评分</th>
+              <th class="num">买入区</th>
+              <th class="num">卖出区</th>
+              <th class="num">止损</th>
+              <th>状态</th>
+              <th>操作建议</th>
+            </tr>
+          </thead>
+          <tbody id="stock-tbody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- 图例 -->
+    <div class="section">
+      <h2>📖 状态说明</h2>
+      <div class="legend-grid">
+        <div class="legend-item">
+          <span class="badge badge-healthy">🟢 健康</span>
+          <span>评分 ≥ 70，未触发任何风险规则，可持有/买入</span>
+        </div>
+        <div class="legend-item">
+          <span class="badge badge-warning">🟡 警示</span>
+          <span>评分 50-70 或接近止损（≤5%），需密切关注</span>
+        </div>
+        <div class="legend-item">
+          <span class="badge badge-danger">🔴 危险</span>
+          <span>评分 < 50 或已破止损，建议次日剔除</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- 监控规则 -->
+    <div id="rules"></div>
+
+    <footer>
+      <p>股票一览 · 自选股监控</p>
+      <p style="margin-top:8px; color:#ff4757">⚠️ 本监控仅供参考，不构成个人投资建议</p>
+    </footer>
+  </div>
+
+  <script src="js/main.js"></script>
+  <script>initStockTable();</script>
+</body>
+</html>
