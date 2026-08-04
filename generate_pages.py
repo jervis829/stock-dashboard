@@ -334,6 +334,15 @@ def patch_dashboard_date(data_date):
 
 
 def main():
+    # 动态买点重估：生成页面前先按最新价重估（阈值驱动、只建议不改价）
+    import sys as _sys
+    _sys.path.insert(0, str(WEB_DIR))
+    try:
+        import reprice as _reprice
+        _reprice.update_watchlist(DATA_FILE)
+    except Exception as e:
+        print(f"⚠ reprice 重估跳过：{e}")
+
     with open(DATA_FILE, "r", encoding="utf-8") as f:
         stocks = json.load(f)
 

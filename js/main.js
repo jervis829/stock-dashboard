@@ -27,6 +27,15 @@ function renderStockCard(stock) {
     observe: '🟨 观察'
   }[actionClass] || '🟩 持有';
 
+  const entryType = stock.entry_type || 'wait';
+  const entryLabel = {
+    wait: '⚪ 维持买点',
+    reprice: '🔄 重定价',
+    missed: '🚫 踏空放弃',
+    review_downbreak: '🔻 破位'
+  }[entryType] || '⚪ 维持买点';
+  const gapTxt = stock.gap_pct != null ? (stock.gap_pct > 0 ? '+' : '') + stock.gap_pct.toFixed(1) + '%' : '—';
+
   return `
     <a href="stock_${stock.code}.html" class="stock-card ${healthClass}">
       <div class="stock-header">
@@ -57,6 +66,11 @@ function renderStockCard(stock) {
           <div class="zone-label">止损</div>
           <div class="zone-value">${stock.stop_loss.toFixed(2)}</div>
         </div>
+      </div>
+      <div class="stock-reprice">
+        <span class="tag ${entryType === 'reprice' ? 'warning' : (entryType === 'missed' || entryType === 'review_downbreak') ? 'danger' : 'success'}">${entryLabel}</span>
+        <span class="text-gray" style="font-size:12px;margin-left:6px">涨离买点 ${gapTxt}</span>
+        ${stock.trailing_stop_suggestion ? `<span class="text-green" style="font-size:12px;margin-left:8px">🎯 移动止盈 ${stock.trailing_stop_suggestion}</span>` : ''}
       </div>
       <div class="stock-footer">
         <span>${actionText}</span>
@@ -311,6 +325,12 @@ async function initStockDetail(code) {
           <div class="value text-red">${stock.stop_loss.toFixed(2)}</div>
           <div class="text-gray" style="font-size:12px; margin-top:4px">距现价 ${((stock.price - stock.stop_loss) / stock.price * 100).toFixed(1)}%</div>
         </div>
+        <div class="detail-item">
+          <div class="label">涨离买点</div>
+          <div class="value">${stock.gap_pct != null ? (stock.gap_pct > 0 ? '+' : '') + stock.gap_pct.toFixed(1) + '%' : '—'}</div>
+          <div class="text-gray" style="font-size:12px; margin-top:4px">${stock.price_status || ''}</div>
+        </div>
+        ${stock.trailing_stop_suggestion ? `<div class="detail-item"><div class="label">移动止盈建议</div><div class="value text-green">${stock.trailing_stop_suggestion}</div><div class="text-gray" style="font-size:12px;margin-top:4px">接近卖出上沿，建议移动止盈</div></div>` : ''}
       </div>
     </div>
 
@@ -467,6 +487,7 @@ function renderStockRow(s) {
       <td class="num cell-buy">${s.buy_low.toFixed(2)}</td>
       <td class="num cell-sell">${s.sell_high.toFixed(2)}</td>
       <td class="num cell-stop">${s.stop_loss.toFixed(2)}</td>
+      <td class="num" style="color:${s.gap_pct > 30 ? '#ff4757' : s.gap_pct > 15 ? '#ffa502' : '#888'}">${s.gap_pct != null ? (s.gap_pct > 0 ? '+' : '') + s.gap_pct.toFixed(1) + '%' : '—'}</td>
       <td>${HEALTH_BADGE[s.health] || HEALTH_BADGE.healthy}</td>
       <td><span class="action-tag ${actionCls}">${actionText}</span></td>
     </tr>
@@ -510,7 +531,7 @@ function renderTable() {
   const tbody = document.getElementById('stock-tbody');
   tbody.innerHTML = filtered.length
     ? filtered.map(renderStockRow).join('')
-    : '<tr><td colspan="12" style="text-align:center; padding:40px; color:#888;">没有匹配的股票</td></tr>';
+    : '<tr><td colspan="13" style="text-align:center; padding:40px; color:#888;">没有匹配的股票</td></tr>';
   document.getElementById('total-count').textContent = filtered.length;
 }
 
