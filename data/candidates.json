@@ -1,294 +1,260 @@
 {
-  "trade_date": "2026-08-05",
-  "generated_at": "2026-08-05 22:06:34",
+  "trade_date": "2026-08-06",
+  "generated_at": "2026-08-06 14:28:24",
   "rule_version": "2026-08-05 全量涨停扫描 + 站上10日线",
-  "pool_size": 103,
-  "passed_count": 31,
-  "review_count": 35,
-  "rejected_count": 37,
+  "pool_size": 74,
+  "passed_count": 21,
+  "review_count": 19,
+  "rejected_count": 34,
   "sector_ranking": {
     "industry_gain": [
       {
-        "name": "玻璃玻纤",
-        "changePct": "7.90",
-        "turnoverRate": "5.46",
-        "changePct5d": "5.43",
-        "changePct20d": "-24.92",
-        "leadStock": "国际复材(14.04)"
+        "name": "煤炭开采",
+        "changePct": "4.62",
+        "turnoverRate": "1.58",
+        "changePct5d": "1.60",
+        "changePct20d": "9.22",
+        "leadStock": "昊华能源(10.03)"
       },
       {
         "name": "电子化学品Ⅱ",
-        "changePct": "7.86",
-        "turnoverRate": "7.86",
-        "changePct5d": "5.29",
-        "changePct20d": "-24.77",
-        "leadStock": "中巨芯-U(20.01)"
+        "changePct": "3.25",
+        "turnoverRate": "8.13",
+        "changePct5d": "16.24",
+        "changePct20d": "-27.14",
+        "leadStock": "中巨芯-U(19.26)"
       },
       {
         "name": "贵金属",
-        "changePct": "7.72",
-        "turnoverRate": "4.25",
-        "changePct5d": "9.37",
-        "changePct20d": "19.65",
-        "leadStock": "晓程科技(11.89)"
+        "changePct": "2.74",
+        "turnoverRate": "5.40",
+        "changePct5d": "12.31",
+        "changePct20d": "22.57",
+        "leadStock": "西部黄金(5.89)"
       },
       {
-        "name": "非金属材料Ⅱ",
-        "changePct": "7.48",
-        "turnoverRate": "3.02",
-        "changePct5d": "6.70",
-        "changePct20d": "-22.35",
-        "leadStock": "联瑞新材(12.48)"
+        "name": "玻璃玻纤",
+        "changePct": "2.72",
+        "turnoverRate": "5.22",
+        "changePct5d": "11.49",
+        "changePct20d": "-25.70",
+        "leadStock": "再升科技(7.10)"
       },
       {
-        "name": "元件",
-        "changePct": "6.57",
-        "turnoverRate": "7.07",
-        "changePct5d": "10.33",
-        "changePct20d": "-14.56",
-        "leadStock": "胜宏科技(17.12)"
+        "name": "种植业",
+        "changePct": "2.31",
+        "turnoverRate": "4.15",
+        "changePct5d": "5.27",
+        "changePct20d": "9.25",
+        "leadStock": "神农种业(11.56)"
       },
       {
         "name": "小金属",
-        "changePct": "6.43",
-        "turnoverRate": "4.80",
-        "changePct5d": "11.39",
-        "changePct20d": "-8.39",
-        "leadStock": "浩通科技(19.99)"
+        "changePct": "2.28",
+        "turnoverRate": "5.75",
+        "changePct5d": "18.08",
+        "changePct20d": "-6.34",
+        "leadStock": "云南锗业(10.00)"
       }
     ],
     "concept_gain": [
       {
         "name": "靶材",
-        "changePct": "9.75",
-        "turnoverRate": "9.86",
-        "changePct5d": "6.40",
-        "changePct20d": "-30.06",
-        "leadStock": "欧莱新材(14.96)"
+        "changePct": "6.58",
+        "turnoverRate": "10.01",
+        "changePct5d": "24.55",
+        "changePct20d": "-31.24",
+        "leadStock": "欧莱新材(12.33)"
       },
       {
-        "name": "电子布",
-        "changePct": "7.76",
-        "turnoverRate": "7.57",
-        "changePct5d": "6.65",
-        "changePct20d": "-19.82",
-        "leadStock": "国际复材(14.04)"
+        "name": "昨日连板",
+        "changePct": "5.24",
+        "turnoverRate": "11.14",
+        "changePct5d": "28.44",
+        "changePct20d": "58.43",
+        "leadStock": "欣天科技(19.97)"
       },
       {
-        "name": "有色(铋)",
-        "changePct": "7.49",
-        "turnoverRate": "5.44",
-        "changePct5d": "9.47",
-        "changePct20d": "-6.44",
-        "leadStock": "中钨高新(10.00)"
-      },
-      {
-        "name": "大硅片",
-        "changePct": "7.40",
-        "turnoverRate": "6.24",
-        "changePct5d": "4.24",
-        "changePct20d": "-20.77",
-        "leadStock": "有研硅(17.62)"
+        "name": "氦气",
+        "changePct": "5.09",
+        "turnoverRate": "3.49",
+        "changePct5d": "12.97",
+        "changePct20d": "-6.70",
+        "leadStock": "蜀道装备(19.99)"
       },
       {
         "name": "电子特气",
-        "changePct": "6.90",
-        "turnoverRate": "4.76",
-        "changePct5d": "3.72",
-        "changePct20d": "-19.23",
-        "leadStock": "中巨芯-U(20.01)"
+        "changePct": "4.80",
+        "turnoverRate": "5.28",
+        "changePct5d": "15.95",
+        "changePct20d": "-18.94",
+        "leadStock": "蜀道装备(19.99)"
       },
       {
-        "name": "中芯国际概念",
-        "changePct": "6.87",
-        "turnoverRate": "4.99",
-        "changePct5d": "3.61",
-        "changePct20d": "-23.32",
-        "leadStock": "中巨芯-U(20.01)"
+        "name": "工业气体",
+        "changePct": "3.48",
+        "turnoverRate": "3.06",
+        "changePct5d": "12.00",
+        "changePct20d": "-12.80",
+        "leadStock": "蜀道装备(19.99)"
+      },
+      {
+        "name": "转基因",
+        "changePct": "3.39",
+        "turnoverRate": "3.83",
+        "changePct5d": "6.25",
+        "changePct20d": "8.83",
+        "leadStock": "神农种业(11.56)"
       }
     ],
     "capital_in": [
       {
-        "name": "半导体",
-        "changePct": "5.80",
-        "mainNetInflow": "1367370.56",
-        "mainNetInflow5d": "602193.01",
-        "upDownRatio": "173/178"
+        "name": "通信设备",
+        "changePct": "0.89",
+        "mainNetInflow": "128651.32",
+        "mainNetInflow5d": "3128180.23",
+        "upDownRatio": "65/85"
       },
       {
-        "name": "工业金属",
-        "changePct": "5.03",
-        "mainNetInflow": "650270.71",
-        "mainNetInflow5d": "523385.73",
-        "upDownRatio": "52/59"
+        "name": "元件",
+        "changePct": "1.37",
+        "mainNetInflow": "110521.86",
+        "mainNetInflow5d": "2706600.68",
+        "upDownRatio": "47/60"
       },
       {
-        "name": "消费电子",
-        "changePct": "4.34",
-        "mainNetInflow": "610485.78",
-        "mainNetInflow5d": "181417.35",
-        "upDownRatio": "84/91"
+        "name": "煤炭开采",
+        "changePct": "4.62",
+        "mainNetInflow": "96975.38",
+        "mainNetInflow5d": "-69650.14",
+        "upDownRatio": "25/26"
       }
     ]
   },
   "sectors": [
     {
-      "industry": "电子",
-      "limitup_count": 18,
+      "industry": "煤炭",
+      "limitup_count": 6,
       "on_hot_board": true,
       "active": true,
       "stocks": [
-        "华正新材",
-        "利通电子",
-        "海星股份",
-        "工业富联",
-        "金安国纪",
-        "有研新材",
-        "宝鼎科技",
-        "环旭电子",
-        "科森科技",
-        "中京电子",
-        "波导股份",
-        "永新光学",
-        "天禄科技",
-        "福晶科技",
-        "宝明科技",
-        "江化微",
-        "大为股份",
-        "康强电子"
+        "兖矿能源",
+        "晋控煤业",
+        "潞安环能",
+        "淮北矿业",
+        "昊华能源",
+        "平煤股份"
       ]
     },
     {
       "industry": "基础化工",
-      "limitup_count": 11,
+      "limitup_count": 6,
       "on_hot_board": false,
       "active": true,
       "stocks": [
-        "平安电工",
         "百合花",
-        "东材科技",
-        "三祥新材",
         "和远气体",
-        "红星发展",
-        "常青科技",
-        "鼎龙科技",
-        "利民股份",
-        "兴业股份",
-        "澄星股份"
-      ]
-    },
-    {
-      "industry": "有色金属",
-      "limitup_count": 10,
-      "on_hot_board": false,
-      "active": true,
-      "stocks": [
-        "福达合金",
-        "东方钽业",
-        "四川黄金",
-        "翔鹭钨业",
-        "盛达资源",
-        "浩通科技",
-        "金诚信",
-        "云南锗业",
-        "中钨高新",
-        "锌业股份"
-      ]
-    },
-    {
-      "industry": "汽车",
-      "limitup_count": 5,
-      "on_hot_board": false,
-      "active": true,
-      "stocks": [
-        "华懋科技",
-        "常润股份",
-        "浙江世宝",
-        "迪生力",
-        "山子高科"
+        "高争民爆",
+        "键邦股份",
+        "德冠新材",
+        "滨化股份"
       ]
     },
     {
       "industry": "机械设备",
-      "limitup_count": 4,
+      "limitup_count": 5,
       "on_hot_board": false,
       "active": true,
       "stocks": [
         "博杰股份",
-        "科瑞技术",
-        "和泰机电",
-        "冰轮环境"
+        "泰坦股份",
+        "蜀道装备",
+        "北方股份",
+        "亿利达"
       ]
     },
     {
-      "industry": "电力设备",
+      "industry": "电子",
+      "limitup_count": 5,
+      "on_hot_board": true,
+      "active": true,
+      "stocks": [
+        "景旺电子",
+        "有研新材",
+        "宝鼎科技",
+        "江化微",
+        "方正科技"
+      ]
+    },
+    {
+      "industry": "计算机",
+      "limitup_count": 5,
+      "on_hot_board": false,
+      "active": true,
+      "stocks": [
+        "泛微网络",
+        "恒银科技",
+        "天融信",
+        "新北洋",
+        "任子行"
+      ]
+    },
+    {
+      "industry": "医药生物",
       "limitup_count": 3,
       "on_hot_board": false,
       "active": true,
       "stocks": [
-        "中电电机",
-        "华盛昌",
-        "柘中股份"
+        "易明医药",
+        "开开实业",
+        "人民同泰"
       ]
     },
     {
       "industry": "通信",
       "limitup_count": 3,
-      "on_hot_board": false,
+      "on_hot_board": true,
       "active": true,
       "stocks": [
-        "嘉环科技",
-        "汇绿生态",
-        "星网锐捷"
+        "通宇通讯",
+        "广哈通信",
+        "恒宝股份"
       ]
     },
     {
-      "industry": "计算机",
-      "limitup_count": 3,
+      "industry": "有色金属",
+      "limitup_count": 1,
       "on_hot_board": false,
-      "active": true,
+      "active": false,
       "stocks": [
-        "盛视科技",
-        "博彦科技",
-        "新开普"
+        "云南锗业"
+      ]
+    },
+    {
+      "industry": "电力设备",
+      "limitup_count": 1,
+      "on_hot_board": false,
+      "active": false,
+      "stocks": [
+        "中电电机"
       ]
     },
     {
       "industry": "建筑材料",
-      "limitup_count": 2,
-      "on_hot_board": false,
-      "active": false,
-      "stocks": [
-        "宏和科技",
-        "中材科技"
-      ]
-    },
-    {
-      "industry": "纺织服饰",
-      "limitup_count": 2,
-      "on_hot_board": false,
-      "active": false,
-      "stocks": [
-        "兴业科技",
-        "金一文化"
-      ]
-    },
-    {
-      "industry": "轻工制造",
       "limitup_count": 1,
       "on_hot_board": false,
       "active": false,
       "stocks": [
-        "金富科技"
+        "西藏天路"
       ]
     },
     {
-      "industry": "钢铁",
+      "industry": "农林牧渔",
       "limitup_count": 1,
       "on_hot_board": false,
       "active": false,
       "stocks": [
-        "甬金股份"
+        "敦煌种业"
       ]
     },
     {
@@ -297,141 +263,141 @@
       "on_hot_board": false,
       "active": false,
       "stocks": [
-        "金房能源"
+        "惠天热电"
       ]
     },
     {
-      "industry": "非银金融",
+      "industry": "纺织服饰",
       "limitup_count": 1,
       "on_hot_board": false,
       "active": false,
       "stocks": [
-        "锦龙股份"
+        "金一文化"
       ]
     },
     {
-      "industry": "社会服务",
+      "industry": "环保",
       "limitup_count": 1,
       "on_hot_board": false,
       "active": false,
       "stocks": [
-        "中公教育"
+        "侨银股份"
       ]
     }
   ],
   "candidates": [
     {
-      "code": "sh601138",
-      "name": "工业富联",
-      "close": 65.92,
-      "ma10": 58.821,
-      "change_pct": 9.99,
-      "pe_ttm": 32.18,
-      "pb": 8.01,
-      "total_mv": 1308123000000.0,
-      "main_net": 4265639456.0,
-      "np_yoy": 102.5485,
+      "code": "sh600188",
+      "name": "兖矿能源",
+      "close": 21.27,
+      "ma10": 19.848,
+      "change_pct": 9.98,
+      "pe_ttm": 20.97,
+      "pb": 2.91,
+      "total_mv": 2134.84,
+      "main_net": 205448572.0,
+      "np_yoy": 39.7972,
+      "industry": "煤炭",
+      "listed_date": "1998-07-01",
+      "business": "煤炭开采、洗选加工、销售和煤炭铁路运输,煤化工及电力业务等。",
       "limitup_days": 1,
-      "industry": "电子",
-      "listed_date": "2018-06-08",
-      "business": "各类电子设备产品的设计、研发、制造与销售业务,依托于工业互联网为全球知名客户提供智能制造和科技服务解决方案。",
       "review_flags": []
     },
     {
-      "code": "sh603256",
-      "name": "宏和科技",
-      "close": 138.11,
-      "ma10": 137.993,
+      "code": "sh603228",
+      "name": "景旺电子",
+      "close": 86.32,
+      "ma10": 76.586,
       "change_pct": 10.0,
-      "pe_ttm": 401.36,
-      "pb": 46.1,
-      "total_mv": 124932000000.0,
-      "main_net": 15186846.0,
-      "np_yoy": 354.2156,
-      "industry": "建筑材料",
-      "listed_date": "2019-07-19",
-      "business": "中高端电子级玻璃纤维布的研发、生产和销售。",
+      "pe_ttm": 75.89,
+      "pb": 6.5,
+      "total_mv": 864.23,
+      "main_net": 1025934376.0,
+      "np_yoy": -28.3654,
+      "industry": "电子",
+      "listed_date": "2017-01-06",
+      "business": "印制电路板的研发、生产和销售业务。",
       "limitup_days": 1,
       "review_flags": []
     },
     {
-      "code": "sz002080",
-      "name": "中材科技",
-      "close": 48.81,
-      "ma10": 45.862,
-      "change_pct": 10.01,
-      "pe_ttm": 41.72,
-      "pb": 4.15,
-      "total_mv": 81909000000.0,
-      "main_net": 333985693.0,
-      "np_yoy": 40.1477,
+      "code": "sz002428",
+      "name": "云南锗业",
+      "close": 90.98,
+      "ma10": 74.122,
+      "change_pct": 10.0,
+      "pe_ttm": 3118.59,
+      "pb": 40.63,
+      "total_mv": 594.21,
+      "main_net": 263551394.0,
+      "np_yoy": -10.7092,
       "limitup_days": 2,
-      "industry": "建筑材料",
-      "listed_date": "2006-11-20",
-      "business": "大力发展风电叶片、玻璃纤维及制品、锂电池隔膜三大主导产业,同时从事高压复合气瓶、膜材料及其他复合材料制品的研发、制造及销售。",
+      "industry": "有色金属",
+      "listed_date": "2010-06-08",
+      "business": "锗矿开采、火法富集、湿法提纯、区熔精炼、精深加工及研究开发,目前主要产品为区熔锗锭、红外级锗单晶(光学元件)及锗镜片。公司主导产品的最终运用领域主要包括红外光学",
       "review_flags": []
     },
     {
-      "code": "sh601231",
-      "name": "环旭电子",
-      "close": 25.96,
-      "ma10": 23.501,
-      "change_pct": 10.0,
-      "pe_ttm": 30.44,
-      "pb": 2.77,
-      "total_mv": 62016999999.99999,
-      "main_net": 188241587.0,
-      "np_yoy": 24.5689,
+      "code": "sh600601",
+      "name": "方正科技",
+      "close": 11.7,
+      "ma10": 9.918,
+      "change_pct": 9.96,
+      "pe_ttm": 79.96,
+      "pb": 10.25,
+      "total_mv": 500.03,
+      "main_net": 958252663.0,
+      "np_yoy": 195.1601,
+      "industry": "电子",
+      "listed_date": "1990-12-19",
+      "business": "生产和销售PCB产品,互联网接入服务,IT系统集成及解决方案。",
       "limitup_days": 1,
-      "industry": "电子",
-      "listed_date": "2012-02-20",
-      "business": "    为国内外的品牌厂商提供通讯类、电脑及存储类、消费电子类、工业类及其他类(以车用电子为主)等五大类电子产品的开发设计、物料采购、生产制造、物流、维修等专业",
       "review_flags": []
     },
     {
-      "code": "sh603629",
-      "name": "利通电子",
-      "close": 112.65,
-      "ma10": 103.63,
+      "code": "sh601699",
+      "name": "潞安环能",
+      "close": 16.24,
+      "ma10": 15.111,
+      "change_pct": 10.03,
+      "pe_ttm": 41.28,
+      "pb": 1.06,
+      "total_mv": 485.8,
+      "main_net": 81550988.0,
+      "np_yoy": 9.403,
+      "industry": "煤炭",
+      "listed_date": "2006-09-22",
+      "business": "原煤开采、煤炭洗选、煤焦冶炼,开采煤层的主要煤种为瘦煤、贫瘦煤、贫煤等。",
+      "limitup_days": 1,
+      "review_flags": []
+    },
+    {
+      "code": "sh600985",
+      "name": "淮北矿业",
+      "close": 16.5,
+      "ma10": 15.089,
       "change_pct": 10.0,
-      "pe_ttm": 77.3,
-      "pb": 19.23,
-      "total_mv": 41312000000.0,
-      "main_net": 499521660.0,
-      "np_yoy": 821.0833,
-      "limitup_days": 2,
-      "industry": "电子",
-      "listed_date": "2018-12-24",
-      "business": "应用于液晶电视等液晶显示领域的精密金属结构件、电子元器件的设计、生产、销售。",
-      "review_flags": []
-    },
-    {
-      "code": "sz002636",
-      "name": "金安国纪",
-      "close": 56.18,
-      "ma10": 55.107,
-      "change_pct": 10.01,
-      "pe_ttm": 85.34,
-      "pb": 10.99,
-      "total_mv": 40899000000.0,
-      "main_net": 282207296.0,
-      "np_yoy": 763.9096,
-      "industry": "电子",
-      "listed_date": "2011-11-25",
-      "business": "电子行业基础材料覆铜板的研发、生产和销售。",
+      "pe_ttm": 34.04,
+      "pb": 1.08,
+      "total_mv": 444.39,
+      "main_net": 68722357.0,
+      "np_yoy": -28.9993,
+      "industry": "煤炭",
+      "listed_date": "2004-04-28",
+      "business": "民爆器材产品销售和爆破工程服务。煤炭采掘、洗选加工、销售,煤化工产品的生产、销售等业务。",
       "limitup_days": 1,
       "review_flags": []
     },
     {
       "code": "sh600206",
       "name": "有研新材",
-      "close": 39.81,
-      "ma10": 39.639,
+      "close": 43.79,
+      "ma10": 39.861,
       "change_pct": 10.0,
-      "pe_ttm": 105.98,
-      "pb": 7.73,
-      "total_mv": 33701000000.0,
-      "main_net": 813368708.0,
+      "pe_ttm": 116.58,
+      "pb": 8.5,
+      "total_mv": 370.71,
+      "main_net": 563804943.0,
       "np_yoy": 40.8878,
       "limitup_days": 1,
       "industry": "电子",
@@ -440,117 +406,49 @@
       "review_flags": []
     },
     {
-      "code": "sz000962",
-      "name": "东方钽业",
-      "close": 51.63,
-      "ma10": 46.821,
-      "change_pct": 9.99,
-      "pe_ttm": 106.34,
-      "pb": 6.9,
-      "total_mv": 27233000000.0,
-      "main_net": 190969511.0,
-      "np_yoy": -3.8159,
-      "limitup_days": 2,
-      "industry": "有色金属",
-      "listed_date": "2000-01-20",
-      "business": "钽铌铍金属及合金制品的研发、生产和销售。",
-      "review_flags": []
-    },
-    {
-      "code": "sz001359",
-      "name": "平安电工",
-      "close": 86.17,
-      "ma10": 80.162,
-      "change_pct": 9.99,
-      "pe_ttm": 89.92,
-      "pb": 10.07,
-      "total_mv": 20780000000.0,
-      "main_net": 56985936.0,
-      "np_yoy": -7.8054,
+      "code": "sh601001",
+      "name": "晋控煤业",
+      "close": 17.86,
+      "ma10": 16.454,
+      "change_pct": 9.98,
+      "pe_ttm": 18.03,
+      "pb": 1.6,
+      "total_mv": 298.92,
+      "main_net": 99250728.0,
+      "np_yoy": -33.9034,
+      "industry": "煤炭",
+      "listed_date": "2006-06-23",
+      "business": "煤炭采掘、洗选加工、销售。",
       "limitup_days": 1,
-      "industry": "基础化工",
-      "listed_date": "2024-03-28",
-      "business": "云母绝缘材料、玻纤布和新能源绝缘材料的研发、生产和销售",
       "review_flags": []
     },
     {
-      "code": "sz000603",
-      "name": "盛达资源",
-      "close": 29.15,
-      "ma10": 25.447,
-      "change_pct": 10.0,
-      "pe_ttm": 23.59,
-      "pb": 5.35,
-      "total_mv": 20113000000.0,
-      "main_net": 229951351.0,
-      "np_yoy": 456.4619,
-      "limitup_days": 1,
-      "industry": "有色金属",
-      "listed_date": "1996-08-23",
-      "business": "含银铅精粉、锌精粉的生产销售和有色金属贸易。",
-      "review_flags": []
-    },
-    {
-      "code": "sh603115",
-      "name": "海星股份",
-      "close": 77.58,
-      "ma10": 69.137,
-      "change_pct": 10.0,
-      "pe_ttm": 85.01,
-      "pb": 9.3,
-      "total_mv": 18975000000.0,
-      "main_net": 89293904.0,
-      "np_yoy": 74.7373,
-      "limitup_days": 2,
-      "industry": "电子",
-      "listed_date": "2019-08-09",
-      "business": "铝电解电容器用电极箔的研发、生产和销售。",
-      "review_flags": []
-    },
-    {
-      "code": "sh603186",
-      "name": "华正新材",
-      "close": 119.31,
-      "ma10": 116.352,
-      "change_pct": 10.0,
-      "pe_ttm": 64.68,
-      "pb": 8.06,
-      "total_mv": 18707000000.0,
-      "main_net": 304236707.0,
-      "np_yoy": 68.0438,
-      "limitup_days": 2,
-      "industry": "电子",
-      "listed_date": "2017-01-03",
-      "business": "覆铜板、绝缘材料和热塑性蜂窝板等复合材料及制品的设计、研发、生产及销售。",
-      "review_flags": []
-    },
-    {
-      "code": "sz001337",
-      "name": "四川黄金",
-      "close": 43.27,
-      "ma10": 39.452,
+      "code": "sh601666",
+      "name": "平煤股份",
+      "close": 8.92,
+      "ma10": 8.017,
       "change_pct": 9.99,
-      "pe_ttm": 28.6,
-      "pb": 9.6,
-      "total_mv": 18173000000.0,
-      "main_net": 134817829.0,
-      "np_yoy": 176.9309,
+      "pe_ttm": 110.32,
+      "pb": 1.01,
+      "total_mv": 220.27,
+      "main_net": 73197120.0,
+      "np_yoy": -20.8496,
+      "industry": "煤炭",
+      "listed_date": "2006-11-23",
+      "business": "煤炭开采、煤炭洗选加工和煤炭销售。",
       "limitup_days": 1,
-      "industry": "有色金属",
-      "listed_date": "2023-03-03",
-      "business": "主要从事金矿的采选及销售,主要产品为金精矿和合质金。",
       "review_flags": []
     },
     {
       "code": "sz002975",
       "name": "博杰股份",
-      "close": 84.61,
-      "ma10": 79.032,
+      "close": 93.07,
+      "ma10": 79.649,
       "change_pct": 10.0,
-      "pe_ttm": 75.62,
-      "pb": 7.48,
-      "total_mv": 17610000000.0,
-      "main_net": 71818723.0,
+      "pe_ttm": 83.18,
+      "pb": 8.23,
+      "total_mv": 193.71,
+      "main_net": 160011767.0,
       "np_yoy": 419.1232,
       "limitup_days": 2,
       "industry": "机械设备",
@@ -559,32 +457,32 @@
       "review_flags": []
     },
     {
-      "code": "sz002957",
-      "name": "科瑞技术",
-      "close": 38.47,
-      "ma10": 35.099,
-      "change_pct": 10.01,
-      "pe_ttm": 54.17,
-      "pb": 5.04,
-      "total_mv": 16157000000.0,
-      "main_net": 86578918.0,
-      "np_yoy": 56.8685,
-      "limitup_days": 2,
-      "industry": "机械设备",
-      "listed_date": "2019-07-26",
-      "business": "主要从事工业自动化设备的研发、设计、生产、销售和技术服务,以及精密零部件制造业务。",
+      "code": "sh601101",
+      "name": "昊华能源",
+      "close": 12.72,
+      "ma10": 11.361,
+      "change_pct": 10.03,
+      "pe_ttm": 32.96,
+      "pb": 1.53,
+      "total_mv": 183.17,
+      "main_net": 59930472.0,
+      "np_yoy": 15.6351,
+      "industry": "煤炭",
+      "listed_date": "2010-03-31",
+      "business": "煤炭生产与销售,甲醇生产与销售,以及铁路专用线运输。",
+      "limitup_days": 1,
       "review_flags": []
     },
     {
       "code": "sz002552",
       "name": "宝鼎科技",
-      "close": 39.34,
-      "ma10": 36.338,
-      "change_pct": 10.01,
-      "pe_ttm": 88.58,
-      "pb": 9.75,
-      "total_mv": 15263000000.0,
-      "main_net": 71131931.0,
+      "close": 43.27,
+      "ma10": 36.675,
+      "change_pct": 9.99,
+      "pe_ttm": 97.42,
+      "pb": 10.72,
+      "total_mv": 167.88,
+      "main_net": 156426678.0,
       "np_yoy": 267.6379,
       "limitup_days": 2,
       "industry": "电子",
@@ -593,168 +491,49 @@
       "review_flags": []
     },
     {
-      "code": "sz002607",
-      "name": "中公教育",
-      "close": 2.35,
-      "ma10": 2.006,
-      "change_pct": 9.81,
-      "pe_ttm": 257.78,
-      "pb": 18.01,
-      "total_mv": 14493000000.0,
-      "main_net": 267874557.0,
-      "np_yoy": 18.332,
-      "limitup_days": 1,
-      "industry": "社会服务",
-      "listed_date": "2011-08-10",
-      "business": "横跨招录考试培训、学历提升和职业能力培训等3大板块,提供超过100个品类的综合职业就业培训服务。",
-      "review_flags": []
-    },
-    {
-      "code": "sz003018",
-      "name": "金富科技",
-      "close": 38.24,
-      "ma10": 34.484,
+      "code": "sh603078",
+      "name": "江化微",
+      "close": 34.19,
+      "ma10": 30.422,
       "change_pct": 10.01,
-      "pe_ttm": 125.12,
-      "pb": 7.35,
-      "total_mv": 12005000000.0,
-      "main_net": 78371552.0,
-      "np_yoy": -19.3128,
-      "limitup_days": 2,
-      "industry": "轻工制造",
-      "listed_date": "2020-11-06",
-      "business": "饮料、食品等领域用的包装产品研发、设计、生产和销售。",
-      "review_flags": []
-    },
-    {
-      "code": "sz002842",
-      "name": "翔鹭钨业",
-      "close": 34.56,
-      "ma10": 30.844,
-      "change_pct": 9.99,
-      "pe_ttm": 29.3,
-      "pb": 7.99,
-      "total_mv": 11307000000.0,
-      "main_net": 234750606.0,
-      "np_yoy": 2917.126,
-      "industry": "有色金属",
-      "listed_date": "2017-01-19",
-      "business": "钨制品的开发、生产与销售。",
+      "pe_ttm": 123.49,
+      "pb": 6.69,
+      "total_mv": 131.85,
+      "main_net": 202648094.0,
+      "np_yoy": 7.3126,
       "limitup_days": 1,
-      "review_flags": []
-    },
-    {
-      "code": "sz000712",
-      "name": "锦龙股份",
-      "close": 9.81,
-      "ma10": 8.763,
-      "change_pct": 9.98,
-      "pe_ttm": 24.18,
-      "pb": 3.29,
-      "total_mv": 8790000000.0,
-      "main_net": 142378763.0,
-      "np_yoy": 83.606,
-      "limitup_days": 1,
-      "industry": "非银金融",
-      "listed_date": "1997-04-15",
-      "business": "证券业务。",
-      "review_flags": []
-    },
-    {
-      "code": "sh603626",
-      "name": "科森科技",
-      "close": 15.11,
-      "ma10": 13.285,
-      "change_pct": 9.97,
-      "pe_ttm": 65.61,
-      "pb": 3.68,
-      "total_mv": 8384000000.0,
-      "main_net": 103194423.0,
-      "np_yoy": 512.7763,
       "industry": "电子",
-      "listed_date": "2017-02-09",
-      "business": "精密压铸、锻压、冲压、CNC、激光切割、激光焊接、MIM、精密注塑等制造工艺、技术为基础,以精密模具设计、生产为支撑,为苹果、亚马逊、谷歌、美敦力等国际、国内知",
+      "listed_date": "2017-04-10",
+      "business": "超净高纯试剂、光刻胶配套试剂等湿电子化学品的研发、生产和销售。",
+      "review_flags": []
+    },
+    {
+      "code": "sh600326",
+      "name": "西藏天路",
+      "close": 7.52,
+      "ma10": 6.792,
+      "change_pct": 9.94,
+      "pe_ttm": 340.85,
+      "pb": 2.61,
+      "total_mv": 102.46,
+      "main_net": 174103569.0,
+      "np_yoy": 70.05,
+      "industry": "建筑材料",
+      "listed_date": "2001-01-16",
+      "business": "工程承包,水泥及水泥制品生产销售,沥青及沥青制品生产销售,商品贸易和矿产品加工与销售等。",
       "limitup_days": 1,
-      "review_flags": []
-    },
-    {
-      "code": "sh603995",
-      "name": "甬金股份",
-      "close": 22.47,
-      "ma10": 20.161,
-      "change_pct": 9.99,
-      "pe_ttm": 14.33,
-      "pb": 1.44,
-      "total_mv": 8170000000.0,
-      "main_net": 20097738.0,
-      "np_yoy": 20.4715,
-      "limitup_days": 1,
-      "industry": "钢铁",
-      "listed_date": "2019-12-24",
-      "business": "冷轧不锈钢板带的研发、生产和销售。",
-      "review_flags": []
-    },
-    {
-      "code": "sz002674",
-      "name": "兴业科技",
-      "close": 26.93,
-      "ma10": 23.303,
-      "change_pct": 10.01,
-      "pe_ttm": 75.75,
-      "pb": 3.25,
-      "total_mv": 7959000000.0,
-      "main_net": 30488823.0,
-      "np_yoy": 19.3094,
-      "limitup_days": 2,
-      "industry": "纺织服饰",
-      "listed_date": "2012-05-07",
-      "business": "从事中高档牛头层鞋面革的开发、生产与销售。",
-      "review_flags": []
-    },
-    {
-      "code": "sz002579",
-      "name": "中京电子",
-      "close": 12.98,
-      "ma10": 11.69,
-      "change_pct": 10.0,
-      "pe_ttm": 303.18,
-      "pb": 3.31,
-      "total_mv": 7952000000.0,
-      "main_net": 137621134.0,
-      "np_yoy": -16.8739,
-      "limitup_days": 2,
-      "industry": "电子",
-      "listed_date": "2011-05-06",
-      "business": "印制电路板(PCB)的研发、生产、销售与服务。",
-      "review_flags": []
-    },
-    {
-      "code": "sh603045",
-      "name": "福达合金",
-      "close": 53.56,
-      "ma10": 49.522,
-      "change_pct": 10.0,
-      "pe_ttm": 24.65,
-      "pb": 5.88,
-      "total_mv": 7254000000.000001,
-      "main_net": 49926729.0,
-      "np_yoy": 3635.071,
-      "limitup_days": 1,
-      "industry": "有色金属",
-      "listed_date": "2018-05-17",
-      "business": "电接触材料的研发、生产和销售。",
       "review_flags": []
     },
     {
       "code": "sz002721",
       "name": "金一文化",
-      "close": 2.67,
-      "ma10": 2.387,
-      "change_pct": 9.88,
-      "pe_ttm": 84.99,
-      "pb": 3.3,
-      "total_mv": 7101000000.000001,
-      "main_net": 36249150.0,
+      "close": 2.94,
+      "ma10": 2.45,
+      "change_pct": 10.11,
+      "pe_ttm": 93.58,
+      "pb": 3.63,
+      "total_mv": 78.19,
+      "main_net": 33211710.0,
       "np_yoy": 261.6217,
       "limitup_days": 1,
       "industry": "纺织服饰",
@@ -763,15 +542,32 @@
       "review_flags": []
     },
     {
+      "code": "sh600829",
+      "name": "人民同泰",
+      "close": 10.35,
+      "ma10": 9.344,
+      "change_pct": 9.99,
+      "pe_ttm": 43.98,
+      "pb": 1.96,
+      "total_mv": 60.02,
+      "main_net": 66769562.0,
+      "np_yoy": 5.7222,
+      "industry": "医药生物",
+      "listed_date": "1994-02-24",
+      "business": "主要业务包括医药批发业务、医药零售业务及提供医疗服务。主要销售中西成药、中药饮片、贵细药材等中西药品,同时销售医疗器械、保健品、日用品、玻璃仪器、化学试剂等产品",
+      "limitup_days": 1,
+      "review_flags": []
+    },
+    {
       "code": "sh603988",
       "name": "中电电机",
-      "close": 20.65,
-      "ma10": 18.548,
+      "close": 22.72,
+      "ma10": 19.103,
       "change_pct": 10.02,
-      "pe_ttm": 156.94,
-      "pb": 7.41,
-      "total_mv": 4857000000.0,
-      "main_net": 47679682.0,
+      "pe_ttm": 172.67,
+      "pb": 8.15,
+      "total_mv": 53.44,
+      "main_net": 82377898.0,
       "np_yoy": 7.2113,
       "industry": "电力设备",
       "listed_date": "2014-11-04",
@@ -780,229 +576,85 @@
       "review_flags": []
     },
     {
-      "code": "sz301026",
-      "name": "浩通科技",
-      "close": 21.49,
-      "ma10": 17.685,
-      "change_pct": 19.99,
-      "pe_ttm": 22.29,
-      "pb": 2.92,
-      "total_mv": 4762000000.0,
-      "main_net": 76375658.0,
-      "np_yoy": 159.1589,
-      "limitup_days": 1,
-      "industry": "有色金属",
-      "listed_date": "2021-07-16",
-      "business": "贵金属回收及相关产品的研发、生产、销售和服务。具体分为贵金属回收、贵金属为主的新材料、贸易三个业务板块。",
-      "review_flags": []
-    },
-    {
-      "code": "sh603206",
-      "name": "嘉环科技",
-      "close": 15.54,
-      "ma10": 13.474,
-      "change_pct": 9.98,
-      "pe_ttm": 120.6,
-      "pb": 2.08,
-      "total_mv": 4743000000.0,
-      "main_net": 36412542.0,
-      "np_yoy": -30.7741,
-      "limitup_days": 1,
-      "industry": "通信",
-      "listed_date": "2022-05-06",
-      "business": "网络建设服务、网络运维服务、信息通信系统软件调试服务、政企行业智能化服务、网络优化服务及ICT教育培训业务",
-      "review_flags": []
-    },
-    {
-      "code": "sz001210",
-      "name": "金房能源",
-      "close": 20.79,
-      "ma10": 18.13,
+      "code": "sz002826",
+      "name": "易明医药",
+      "close": 18.15,
+      "ma10": 16.272,
       "change_pct": 10.0,
-      "pe_ttm": 33.28,
-      "pb": 3.18,
-      "total_mv": 4564000000.0,
-      "main_net": 31547173.0,
-      "np_yoy": 2.0905,
-      "industry": "公用事业",
-      "listed_date": "2021-07-29",
-      "business": "供热运营服务、节能改造服务和节能产品的研发、生产和销售。",
+      "pe_ttm": 37.04,
+      "pb": 4.28,
+      "total_mv": 34.61,
+      "main_net": 27707285.0,
+      "np_yoy": 4.5468,
+      "industry": "医药生物",
+      "listed_date": "2016-12-09",
+      "business": "主要从事化学药(原料药和制剂)以及中成药的研发、生产和销售。",
       "limitup_days": 1,
       "review_flags": []
     },
     {
-      "code": "sh600130",
-      "name": "波导股份",
-      "close": 4.32,
-      "ma10": 3.828,
-      "change_pct": 9.92,
-      "pe_ttm": 565.44,
-      "pb": 3.56,
-      "total_mv": 3240000000.0,
-      "main_net": 34307138.0,
-      "np_yoy": 23.0749,
-      "industry": "电子",
-      "listed_date": "2000-07-06",
-      "business": "传统业务是手机和主板的研发、生产和销售，近两年新拓展了机动车定位器、人脸识别及实名认证装置等智能设备业务。",
+      "code": "sh600354",
+      "name": "敦煌种业",
+      "close": 6.53,
+      "ma10": 5.956,
+      "change_pct": 9.93,
+      "pe_ttm": 112.56,
+      "pb": 4.6,
+      "total_mv": 34.47,
+      "main_net": 85907943.0,
+      "np_yoy": -26.0334,
+      "industry": "农林牧渔",
+      "listed_date": "2004-01-15",
+      "business": "各类农作物种子的研发、生产、加工、销售和脱水菜、番茄粉、啤酒花制品的和高品质果蔬鲜品的生产、加工、销售;棉花及其副产品和其它特色大宗农产品的收购、加工、仓储、贸",
+      "limitup_days": 1,
+      "review_flags": []
+    },
+    {
+      "code": "sh600272",
+      "name": "开开实业",
+      "close": 11.79,
+      "ma10": 10.578,
+      "change_pct": 9.98,
+      "pe_ttm": 134.6,
+      "pb": 3.92,
+      "total_mv": 30.97,
+      "main_net": 35759370.0,
+      "np_yoy": 126.2088,
+      "industry": "医药生物",
+      "listed_date": "2001-02-28",
+      "business": "以中医药流通、中医药学服务(中医问诊服务)和服装批发、零售为主营业务。",
+      "limitup_days": 1,
+      "review_flags": []
+    },
+    {
+      "code": "sz000692",
+      "name": "惠天热电",
+      "close": 4.24,
+      "ma10": 3.789,
+      "change_pct": 10.13,
+      "pe_ttm": 68.88,
+      "pb": 12.18,
+      "total_mv": 22.59,
+      "main_net": 11494580.0,
+      "np_yoy": 233.2468,
+      "industry": "公用事业",
+      "listed_date": "1997-02-27",
+      "business": "为居民及非居民提供供热及供暖工程服务。",
       "limitup_days": 1,
       "review_flags": []
     }
   ],
   "need_review": [
     {
-      "code": "sz000657",
-      "name": "中钨高新",
-      "close": 57.43,
-      "ma10": 53.431,
-      "change_pct": 10.0,
-      "pe_ttm": 67.14,
-      "pb": 12.88,
-      "total_mv": 130859999999.99998,
-      "main_net": 615695596.0,
-      "industry": "有色金属",
-      "listed_date": "1996-12-05",
-      "business": "硬质合金和钨、钼、钽、铌等稀有金属及其深加工产品的研制、开发、生产、销售及贸易业务。",
-      "limitup_days": 1,
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sz002428",
-      "name": "云南锗业",
-      "close": 82.71,
-      "ma10": 72.682,
-      "change_pct": 10.0,
-      "pe_ttm": 2835.12,
-      "pb": 36.93,
-      "total_mv": 54020000000.00001,
-      "main_net": 571322171.0,
-      "limitup_days": 2,
-      "industry": "有色金属",
-      "listed_date": "2010-06-08",
-      "business": "锗矿开采、火法富集、湿法提纯、区熔精炼、精深加工及研究开发,目前主要产品为区熔锗锭、红外级锗单晶(光学元件)及锗镜片。公司主导产品的最终运用领域主要包括红外光学",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sh603979",
-      "name": "金诚信",
-      "close": 78.68,
-      "ma10": 73.075,
-      "change_pct": 10.0,
-      "pe_ttm": 19.49,
-      "pb": 4.45,
-      "total_mv": 49080000000.0,
-      "main_net": 38383495.0,
-      "limitup_days": 1,
-      "industry": "有色金属",
-      "listed_date": "2015-06-30",
-      "business": "矿山工程建设、采矿运营管理、矿山设计与技术研发在内的矿山开发服务业务。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sh601208",
-      "name": "东材科技",
-      "close": 39.33,
-      "ma10": 37.708,
-      "change_pct": 10.01,
-      "pe_ttm": 104.45,
-      "pb": 6.58,
-      "total_mv": 39730000000.0,
-      "main_net": 237760315.0,
-      "limitup_days": 2,
-      "industry": "基础化工",
-      "listed_date": "2011-05-20",
-      "business": "化工新材料的研发、制造和销售。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sz000811",
-      "name": "冰轮环境",
-      "close": 39.47,
-      "ma10": 38.253,
-      "change_pct": 10.01,
-      "pe_ttm": 66.64,
-      "pb": 6.09,
-      "total_mv": 39173000000.0,
-      "main_net": 224096243.0,
-      "limitup_days": 2,
-      "industry": "机械设备",
-      "listed_date": "1998-05-28",
-      "business": "从事低温冷冻设备、中央空调设备、节能制热设备及应用系统集成、工程成套服务、智慧服务,广泛服务于食品冷链、石化、医药、能源、冰雪体育,以及大型场馆、轨道交通、核电",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sz000981",
-      "name": "山子高科",
-      "close": 3.17,
-      "ma10": 2.656,
-      "change_pct": 10.07,
-      "pe_ttm": 26.51,
-      "pb": 10.23,
-      "total_mv": 31692000000.0,
-      "main_net": 603330194.0,
-      "industry": "汽车",
-      "listed_date": "2000-06-22",
-      "business": "无级变速器和汽车安全气囊气体发生器的研发、生产和销售以及房地产开发和销售。",
-      "limitup_days": 1,
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sz001267",
-      "name": "汇绿生态",
-      "close": 35.28,
-      "ma10": 31.142,
-      "change_pct": 10.01,
-      "pe_ttm": 333.2,
-      "pb": 17.4,
-      "total_mv": 27695000000.0,
-      "main_net": 207505665.0,
-      "limitup_days": 2,
-      "industry": "通信",
-      "listed_date": "2021-11-17",
-      "business": "园林工程施工、园林景观设计及苗木种植等。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sz002222",
-      "name": "福晶科技",
-      "close": 58.21,
-      "ma10": 53.802,
-      "change_pct": 10.0,
-      "pe_ttm": 93.14,
-      "pb": 15.37,
-      "total_mv": 27373000000.0,
-      "main_net": 296295577.0,
-      "limitup_days": 1,
-      "industry": "电子",
-      "listed_date": "2008-03-19",
-      "business": "激光和光通讯等领域相关光电元器件的研发、生产和销售",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
       "code": "sh603823",
       "name": "百合花",
-      "close": 60.73,
-      "ma10": 59.883,
+      "close": 66.8,
+      "ma10": 59.189,
       "change_pct": 10.0,
-      "pe_ttm": 154.11,
-      "pb": 10.32,
-      "total_mv": 25286000000.0,
-      "main_net": 161748473.0,
+      "pe_ttm": 169.51,
+      "pb": 11.35,
+      "total_mv": 278.13,
+      "main_net": -23233062.0,
       "limitup_days": 1,
       "industry": "基础化工",
       "listed_date": "2016-12-20",
@@ -1012,234 +664,90 @@
       ]
     },
     {
-      "code": "sh603306",
-      "name": "华懋科技",
-      "close": 67.46,
-      "ma10": 62.223,
-      "change_pct": 10.0,
-      "pe_ttm": 155.4,
-      "pb": 6.97,
-      "total_mv": 22228000000.0,
-      "main_net": 151728596.0,
-      "limitup_days": 2,
-      "industry": "汽车",
-      "listed_date": "2014-09-26",
-      "business": "从事汽车安全气囊布和安全气袋的研发、生产及加工。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sh603663",
-      "name": "三祥新材",
-      "close": 37.26,
-      "ma10": 36.585,
-      "change_pct": 10.01,
-      "pe_ttm": 156.93,
-      "pb": 16.25,
-      "total_mv": 22116000000.0,
-      "main_net": 62642454.0,
-      "limitup_days": 1,
-      "industry": "基础化工",
-      "listed_date": "2016-08-01",
-      "business": "锆系、铸改等工业新材料的研发、生产和销售。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sz002396",
-      "name": "星网锐捷",
-      "close": 28.7,
-      "ma10": 28.304,
-      "change_pct": 10.0,
-      "pe_ttm": 54.03,
-      "pb": 3.18,
-      "total_mv": 21828000000.0,
-      "main_net": 472319054.0,
-      "limitup_days": 1,
+      "code": "sz002792",
+      "name": "通宇通讯",
+      "close": 33.81,
+      "ma10": 26.445,
+      "change_pct": 9.99,
+      "pe_ttm": 1040.74,
+      "pb": 6.31,
+      "total_mv": 177.11,
+      "main_net": 285818340.0,
       "industry": "通信",
-      "listed_date": "2010-06-23",
-      "business": "网络通讯业务、云终端与云支付业务、数字娱乐业务、融合通信业务、车联网及无线通讯系统业务等领域。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sz002980",
-      "name": "华盛昌",
-      "close": 76.14,
-      "ma10": 73.571,
-      "change_pct": 10.0,
-      "pe_ttm": 185.71,
-      "pb": 12.77,
-      "total_mv": 14421000000.0,
-      "main_net": 71213439.0,
-      "limitup_days": 2,
-      "industry": "电力设备",
-      "listed_date": "2020-04-15",
-      "business": "专业仪器仪表的生产、销售及相关业务。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sz002703",
-      "name": "浙江世宝",
-      "close": 16.28,
-      "ma10": 13.829,
-      "change_pct": 10.0,
-      "pe_ttm": 77.12,
-      "pb": 6.33,
-      "total_mv": 13391999999.999998,
-      "main_net": 141355072.0,
+      "listed_date": "2016-03-28",
+      "business": "从事基站天线,微波天线,射频器件,光模块产品及能源换电柜,充电柜产品的研发、生产及销售。",
       "limitup_days": 1,
-      "industry": "汽车",
-      "listed_date": "2012-11-02",
-      "business": "汽车转向器及其他转向系统关键零部件的研发、设计、制造和销售。",
       "review_flags": [
         "净利同比[MISSING]"
       ]
     },
     {
-      "code": "sz002990",
-      "name": "盛视科技",
-      "close": 49.29,
-      "ma10": 44.413,
-      "change_pct": 10.0,
-      "pe_ttm": 219.25,
-      "pb": 5.23,
-      "total_mv": 12907000000.0,
-      "main_net": 114805658.0,
-      "limitup_days": 2,
+      "code": "sh601678",
+      "name": "滨化股份",
+      "close": 7.28,
+      "ma10": 6.576,
+      "change_pct": 9.97,
+      "pe_ttm": 63.6,
+      "pb": 1.51,
+      "total_mv": 175.37,
+      "main_net": 407761759.0,
+      "industry": "基础化工",
+      "listed_date": "2010-02-23",
+      "business": "滨化集团股份有限公司是一家主要从事有机、无机化工产品的生产、加工与销售业务的中国公司。该公司的主要产品为烧碱、环氧丙烷等。烧碱包括粒碱和片碱，应用于轻工、化工、",
+      "limitup_days": 1,
+      "review_flags": [
+        "净利同比[MISSING]"
+      ]
+    },
+    {
+      "code": "sh603039",
+      "name": "泛微网络",
+      "close": 49.1,
+      "ma10": 36.495,
+      "change_pct": 9.99,
+      "pe_ttm": 46.52,
+      "pb": 5.75,
+      "total_mv": 151.05,
+      "main_net": 277306790.0,
       "industry": "计算机",
-      "listed_date": "2020-05-25",
-      "business": "公司是一家从事人工智能、大数据、物联网等新一代信息技术研究,为用户提供符合未来发展的智能产品及“AI+行业”解决方案,服务智慧社会建设的国家级高新技术企业。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sh603078",
-      "name": "江化微",
-      "close": 31.08,
-      "ma10": 30.196,
-      "change_pct": 10.02,
-      "pe_ttm": 112.25,
-      "pb": 6.08,
-      "total_mv": 11986000000.0,
-      "main_net": 100556973.0,
+      "listed_date": "2017-01-13",
+      "business": "协同管理软件产品的研发、销售及相关技术服务。",
       "limitup_days": 1,
-      "industry": "电子",
-      "listed_date": "2017-04-10",
-      "business": "超净高纯试剂、光刻胶配套试剂等湿电子化学品的研发、生产和销售。",
       "review_flags": [
         "净利同比[MISSING]"
       ]
     },
     {
-      "code": "sh603297",
-      "name": "永新光学",
-      "close": 102.22,
-      "ma10": 92.763,
-      "change_pct": 10.0,
-      "pe_ttm": 53.81,
-      "pb": 5.67,
-      "total_mv": 11319000000.0,
-      "main_net": 47471322.0,
-      "limitup_days": 1,
-      "industry": "电子",
-      "listed_date": "2018-09-10",
-      "business": "主要从事光学显微镜、光学元件组件和其他光学产品的研发、生产和销售。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sh600367",
-      "name": "红星发展",
-      "close": 29.92,
-      "ma10": 28.591,
-      "change_pct": 10.0,
-      "pe_ttm": 110.74,
-      "pb": 4.11,
-      "total_mv": 10207000000.0,
-      "main_net": 90056135.0,
-      "limitup_days": 1,
-      "industry": "基础化工",
-      "listed_date": "2001-03-20",
-      "business": "钡盐、锶盐和锰系产品的研发、生产和销售。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sh603125",
-      "name": "常青科技",
-      "close": 22.61,
-      "ma10": 20.575,
-      "change_pct": 10.02,
-      "pe_ttm": 44.86,
-      "pb": 3.64,
-      "total_mv": 9153000000.0,
-      "main_net": 13417354.0,
-      "limitup_days": 1,
-      "industry": "基础化工",
-      "listed_date": "2023-04-10",
-      "business": "从事高分子新材料特种单体及专用助剂的研发、生产和销售的高新技术企业,致力于为下游高分子新材料的产品制造、性能改善、功能增强提供支撑。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sz002346",
-      "name": "柘中股份",
-      "close": 20.0,
-      "ma10": 17.248,
+      "code": "sz002827",
+      "name": "高争民爆",
+      "close": 49.24,
+      "ma10": 34.379,
       "change_pct": 10.01,
-      "pe_ttm": 31.67,
-      "pb": 3.29,
-      "total_mv": 8832000000.0,
-      "main_net": 28555328.0,
-      "industry": "电力设备",
-      "listed_date": "2010-01-28",
-      "business": "管桩的生产和销售;成套开关设备与投资业务。",
+      "pe_ttm": 71.85,
+      "pb": 13.11,
+      "total_mv": 136.42,
+      "main_net": 129688510.0,
+      "industry": "基础化工",
+      "listed_date": "2016-12-09",
+      "business": "民爆器材的销售(流通)、配送、工业炸药生产和爆破服务。",
       "limitup_days": 1,
       "review_flags": [
         "净利同比[MISSING]"
       ]
     },
     {
-      "code": "sz002119",
-      "name": "康强电子",
-      "close": 22.3,
-      "ma10": 21.127,
-      "change_pct": 10.01,
-      "pe_ttm": 72.13,
-      "pb": 6.01,
-      "total_mv": 8369000000.0,
-      "main_net": 113068959.0,
-      "limitup_days": 1,
-      "industry": "电子",
-      "listed_date": "2007-03-02",
-      "business": "引线框架、键合丝等半导体封装材料的制造和销售。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sz000751",
-      "name": "锌业股份",
-      "close": 5.12,
-      "ma10": 4.509,
-      "change_pct": 10.11,
-      "pe_ttm": 72.96,
-      "pb": 2.25,
-      "total_mv": 8272000000.0,
-      "main_net": 161015251.0,
-      "industry": "有色金属",
-      "listed_date": "1997-06-26",
-      "business": "锌、铅冶炼及相关产品的生产和销售。",
+      "code": "sz003036",
+      "name": "泰坦股份",
+      "close": 52.25,
+      "ma10": 46.751,
+      "change_pct": 10.0,
+      "pe_ttm": 231.54,
+      "pb": 8.03,
+      "total_mv": 113.18,
+      "main_net": 35559035.0,
+      "industry": "机械设备",
+      "listed_date": "2021-01-28",
+      "business": "主要从事纺织机械设备的研发、生产和销售。",
       "limitup_days": 1,
       "review_flags": [
         "净利同比[MISSING]"
@@ -1248,13 +756,13 @@
     {
       "code": "sz002971",
       "name": "和远气体",
-      "close": 37.5,
-      "ma10": 35.712,
+      "close": 41.25,
+      "ma10": 36.109,
       "change_pct": 10.0,
-      "pe_ttm": 148.53,
-      "pb": 4.43,
-      "total_mv": 7898000000.0,
-      "main_net": 47188626.0,
+      "pe_ttm": 163.38,
+      "pb": 4.87,
+      "total_mv": 86.88,
+      "main_net": 143647339.0,
       "industry": "基础化工",
       "listed_date": "2020-01-13",
       "business": "各类气体产品的研发、生产、销售、服务以及工业尾气回收循环利用。",
@@ -1264,216 +772,216 @@
       ]
     },
     {
-      "code": "sh600078",
-      "name": "澄星股份",
-      "close": 11.03,
-      "ma10": 9.686,
-      "change_pct": 9.97,
-      "pe_ttm": 103.72,
-      "pb": 4.38,
-      "total_mv": 7465000000.000001,
-      "main_net": 40307326.0,
-      "industry": "基础化工",
-      "listed_date": "1997-06-27",
-      "business": "黄磷、磷酸、磷酸盐等精细磷化工系列产品的生产与销售。",
-      "limitup_days": 1,
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sz002734",
-      "name": "利民股份",
-      "close": 15.16,
-      "ma10": 13.465,
+      "code": "sz002212",
+      "name": "天融信",
+      "close": 7.36,
+      "ma10": 6.356,
       "change_pct": 10.01,
-      "pe_ttm": 14.32,
-      "pb": 1.86,
-      "total_mv": 7214000000.0,
-      "main_net": 97770082.0,
-      "limitup_days": 1,
-      "industry": "基础化工",
-      "listed_date": "2015-01-27",
-      "business": "农用杀菌剂原药及制剂的研发、生产和销售。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sz301045",
-      "name": "天禄科技",
-      "close": 63.36,
-      "ma10": 58.029,
-      "change_pct": 20.0,
-      "pe_ttm": 190.82,
-      "pb": 6.81,
-      "total_mv": 6990000000.000001,
-      "main_net": 49984316.0,
-      "limitup_days": 1,
-      "industry": "电子",
-      "listed_date": "2021-08-13",
-      "business": "从事导光板研发、生产、销售。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sz002213",
-      "name": "大为股份",
-      "close": 28.86,
-      "ma10": 26.746,
-      "change_pct": 9.98,
-      "pe_ttm": 3619.91,
-      "pb": 12.43,
-      "total_mv": 6856000000.0,
-      "main_net": 155265047.0,
-      "industry": "电子",
+      "pe_ttm": 207.34,
+      "pb": 0.91,
+      "total_mv": 86.81,
+      "main_net": 165135118.0,
+      "industry": "计算机",
       "listed_date": "2008-02-01",
-      "business": "新一代信息技术业、汽车制造业双主业,主要业务包括半导体存储器业务、智能终端业务和汽车业务。",
+      "business": "网络安全业务。",
       "limitup_days": 1,
       "review_flags": [
         "净利同比[MISSING]"
       ]
     },
     {
-      "code": "sz002992",
-      "name": "宝明科技",
-      "close": 36.19,
-      "ma10": 33.255,
-      "change_pct": 10.0,
-      "pe_ttm": 421.89,
-      "pb": 8.89,
-      "total_mv": 6545999999.999999,
-      "main_net": 22362602.0,
-      "limitup_days": 1,
-      "industry": "电子",
-      "listed_date": "2020-08-03",
-      "business": "专业从事LED背光源和电容式触摸屏等新型平板显示器件的研发、设计、生产和销售。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sz002649",
-      "name": "博彦科技",
-      "close": 10.26,
-      "ma10": 8.991,
-      "change_pct": 9.97,
-      "pe_ttm": 137.69,
-      "pb": 1.47,
-      "total_mv": 6068000000.0,
-      "main_net": 84107322.0,
-      "limitup_days": 1,
-      "industry": "计算机",
-      "listed_date": "2012-01-06",
-      "business": "产品及解决方案、研发工程服务和IT运营维护。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sz300248",
-      "name": "新开普",
-      "close": 10.07,
-      "ma10": 8.123,
-      "change_pct": 20.02,
-      "pe_ttm": 81.08,
-      "pb": 2.27,
-      "total_mv": 4797000000.0,
-      "main_net": 102704026.0,
-      "limitup_days": 1,
-      "industry": "计算机",
-      "listed_date": "2011-07-29",
-      "business": "智能一卡通系统解决方案及相关软硬件产品。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sh603004",
-      "name": "鼎龙科技",
-      "close": 20.22,
-      "ma10": 18.042,
+      "code": "sz002104",
+      "name": "恒宝股份",
+      "close": 11.76,
+      "ma10": 10.266,
       "change_pct": 10.01,
-      "pe_ttm": 33.55,
-      "pb": 2.29,
-      "total_mv": 4762000000.0,
-      "main_net": 29656492.0,
-      "industry": "基础化工",
-      "listed_date": "2023-12-27",
-      "business": "精细化工产品研发、生产和销售。",
+      "pe_ttm": 597.65,
+      "pb": 3.95,
+      "total_mv": 83.3,
+      "main_net": 144750176.0,
+      "industry": "通信",
+      "listed_date": "2007-01-10",
+      "business": "磁条卡、密码卡等卡类产品及其相关操作系统(COS)和票证产品的研发、生产和销售。",
       "limitup_days": 1,
       "review_flags": [
         "净利同比[MISSING]"
       ]
     },
     {
-      "code": "sh603928",
-      "name": "兴业股份",
-      "close": 11.94,
-      "ma10": 11.061,
-      "change_pct": 10.05,
-      "pe_ttm": 33.81,
-      "pb": 2.57,
-      "total_mv": 4068000000.0,
-      "main_net": 113131207.0,
-      "industry": "基础化工",
-      "listed_date": "2016-12-12",
-      "business": "专注于研发、生产、销售功能新材料,包括铸造工艺材料和丙烯酸等其他化工新材料、特种酚醛树脂和金属变质剂系列新材料及相关技术的设计、咨询、投资与服务",
-      "limitup_days": 1,
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sh603201",
-      "name": "常润股份",
-      "close": 17.6,
-      "ma10": 15.427,
-      "change_pct": 10.0,
-      "pe_ttm": 17.0,
-      "pb": 1.93,
-      "total_mv": 3344000000.0,
-      "main_net": 25796768.0,
-      "industry": "汽车",
-      "listed_date": "2022-07-29",
-      "business": "主要从事汽车维修保养设备与工具、汽车配套零部件的研发、生产和销售。",
-      "limitup_days": 1,
-      "review_flags": [
-        "净利同比[MISSING]"
-      ]
-    },
-    {
-      "code": "sz001225",
-      "name": "和泰机电",
-      "close": 45.22,
-      "ma10": 40.811,
-      "change_pct": 10.0,
-      "pe_ttm": 97.99,
-      "pb": 2.17,
-      "total_mv": 2965000000.0,
-      "main_net": 31659972.0,
-      "limitup_days": 1,
+      "code": "sz300540",
+      "name": "蜀道装备",
+      "close": 33.61,
+      "ma10": 28.066,
+      "change_pct": 19.99,
+      "pe_ttm": 104.75,
+      "pb": 6.83,
+      "total_mv": 76.49,
+      "main_net": 69074483.0,
       "industry": "机械设备",
-      "listed_date": "2023-02-22",
-      "business": "物料输送设备的研发、设计、制造和销售。",
+      "listed_date": "2016-08-23",
+      "business": "为客户提供天然气液化与液体空分工艺包及处理装置、交通及环保装备、新能源装备等。",
+      "limitup_days": 1,
       "review_flags": [
         "净利同比[MISSING]"
       ]
     },
     {
-      "code": "sh603335",
-      "name": "迪生力",
-      "close": 6.69,
-      "ma10": 5.853,
-      "change_pct": 10.03,
-      "pe_ttm": 55.85,
-      "pb": 10.15,
-      "total_mv": 2864000000.0,
-      "main_net": 25882422.0,
-      "industry": "汽车",
-      "listed_date": "2017-06-20",
-      "business": "汽车铝合金车轮的研发、设计、制造和销售。",
+      "code": "sh603285",
+      "name": "键邦股份",
+      "close": 35.86,
+      "ma10": 31.426,
+      "change_pct": 10.0,
+      "pe_ttm": 43.8,
+      "pb": 3.41,
+      "total_mv": 57.38,
+      "main_net": 23503000.0,
+      "industry": "基础化工",
+      "listed_date": "2024-07-05",
+      "business": "从事高分子材料环保助剂研发、生产与销售的高新技术企业。",
+      "limitup_days": 1,
+      "review_flags": [
+        "净利同比[MISSING]"
+      ]
+    },
+    {
+      "code": "sz002376",
+      "name": "新北洋",
+      "close": 6.99,
+      "ma10": 6.325,
+      "change_pct": 10.08,
+      "pe_ttm": 71.01,
+      "pb": 1.55,
+      "total_mv": 56.66,
+      "main_net": 73930393.0,
+      "industry": "计算机",
+      "listed_date": "2010-03-23",
+      "business": "智能设备/装备的研发、生产、销售和服务。",
+      "limitup_days": 1,
+      "review_flags": [
+        "净利同比[MISSING]"
+      ]
+    },
+    {
+      "code": "sz300711",
+      "name": "广哈通信",
+      "close": 19.03,
+      "ma10": 15.378,
+      "change_pct": 19.99,
+      "pe_ttm": 67.98,
+      "pb": 3.6,
+      "total_mv": 53.37,
+      "main_net": 86730992.0,
+      "industry": "通信",
+      "listed_date": "2017-11-01",
+      "business": "数字与多媒体指挥调度系统及相关产品的研发、生产、销售与服务。",
+      "limitup_days": 1,
+      "review_flags": [
+        "净利同比[MISSING]"
+      ]
+    },
+    {
+      "code": "sh603106",
+      "name": "恒银科技",
+      "close": 10.04,
+      "ma10": 7.679,
+      "change_pct": 9.97,
+      "pe_ttm": 182.33,
+      "pb": 3.98,
+      "total_mv": 52.26,
+      "main_net": 132555375.0,
+      "industry": "计算机",
+      "listed_date": "2017-09-20",
+      "business": "提供以金融自助设备为核心的智慧银行解决方案。",
+      "limitup_days": 1,
+      "review_flags": [
+        "净利同比[MISSING]"
+      ]
+    },
+    {
+      "code": "sz300311",
+      "name": "任子行",
+      "close": 7.16,
+      "ma10": 5.496,
+      "change_pct": 19.93,
+      "pe_ttm": 137.78,
+      "pb": 7.37,
+      "total_mv": 48.23,
+      "main_net": 89283682.0,
+      "industry": "计算机",
+      "listed_date": "2012-04-25",
+      "business": "网络内容与行为审计和监管产品的研发、生产和销售,并提供安全集成、安全审计相关服务。",
+      "limitup_days": 1,
+      "review_flags": [
+        "净利同比[MISSING]"
+      ]
+    },
+    {
+      "code": "sz002973",
+      "name": "侨银股份",
+      "close": 10.99,
+      "ma10": 9.39,
+      "change_pct": 10.01,
+      "pe_ttm": 29.71,
+      "pb": 1.76,
+      "total_mv": 44.91,
+      "main_net": 21038621.0,
+      "industry": "环保",
+      "listed_date": "2020-01-06",
+      "business": "城乡环卫保洁、生活垃圾处置、市政环卫工程及其他环卫服务。",
+      "limitup_days": 1,
+      "review_flags": [
+        "净利同比[MISSING]"
+      ]
+    },
+    {
+      "code": "sh600262",
+      "name": "北方股份",
+      "close": 15.63,
+      "ma10": 14.036,
+      "change_pct": 9.99,
+      "pe_ttm": 16.37,
+      "pb": 2.06,
+      "total_mv": 37.2,
+      "main_net": 52987820.0,
+      "industry": "机械设备",
+      "listed_date": "2000-06-30",
+      "business": "非公路矿用自卸车的研发、生产、销售和服务。",
+      "limitup_days": 1,
+      "review_flags": [
+        "净利同比[MISSING]"
+      ]
+    },
+    {
+      "code": "sz002686",
+      "name": "亿利达",
+      "close": 6.57,
+      "ma10": 5.71,
+      "change_pct": 10.05,
+      "pe_ttm": 197.96,
+      "pb": 2.32,
+      "total_mv": 37.2,
+      "main_net": 48072724.0,
+      "industry": "机械设备",
+      "listed_date": "2012-07-03",
+      "business": "从事风机研发、生产、销售业务。",
+      "limitup_days": 1,
+      "review_flags": [
+        "净利同比[MISSING]"
+      ]
+    },
+    {
+      "code": "sz001378",
+      "name": "德冠新材",
+      "close": 19.59,
+      "ma10": 16.896,
+      "change_pct": 9.99,
+      "pe_ttm": 38.3,
+      "pb": 1.84,
+      "total_mv": 33.96,
+      "main_net": 30202891.0,
+      "industry": "基础化工",
+      "listed_date": "2023-10-30",
+      "business": "主要从事功能薄膜和功能母料的研发、生产与销售,为客户提供功能性BOPP薄膜、BOPE薄膜、功能母料。",
       "limitup_days": 1,
       "review_flags": [
         "净利同比[MISSING]"
@@ -1482,172 +990,51 @@
   ],
   "rejected": [
     {
-      "code": "sh601869",
-      "name": "长飞光纤",
-      "close": 312.4,
-      "ma10": 300.052,
-      "change_pct": 10.0,
-      "pe_ttm": 223.51,
-      "pb": 18.17,
-      "total_mv": 258638000000.0,
-      "main_net": 573667954.0,
-      "industry": "通信",
-      "listed_date": "2018-07-20",
-      "business": "专注于通信行业,聚焦电信运营商和数据通信相关领域,致力于光纤预制棒、光纤和光缆以及数据通信相关产品的研发创新与生产制造,形成了棒纤缆、综合布线、通信网络工程和其",
-      "limitup_days": 1,
-      "review_flags": [
-        "净利同比[MISSING]"
-      ],
-      "reject_reasons": [
-        "股价>150(312.40)"
-      ]
-    },
-    {
-      "code": "sh603268",
-      "name": "松发股份",
-      "close": 172.87,
-      "ma10": 153.168,
-      "change_pct": 10.0,
-      "pe_ttm": 50.4,
-      "pb": 10.07,
-      "total_mv": 176106000000.0,
-      "main_net": 204385393.0,
-      "np_yoy": 330.2872,
-      "limitup_days": 1,
-      "industry": "国防军工",
-      "listed_date": "2015-03-19",
-      "business": "日用陶瓷制品的研发、生产和销售。",
-      "review_flags": [],
-      "reject_reasons": [
-        "股价>150(172.87)"
-      ]
-    },
-    {
-      "code": "sh605376",
-      "name": "博迁新材",
-      "close": 157.65,
-      "ma10": 141.847,
-      "change_pct": 10.0,
-      "pe_ttm": 169.75,
-      "pb": 23.78,
-      "total_mv": 41241000000.0,
-      "main_net": 249154203.0,
-      "np_yoy": 49.6387,
-      "limitup_days": 1,
-      "industry": "有色金属",
-      "listed_date": "2020-12-08",
-      "business": "电子专用高端金属粉体材料的研发、生产和销售。",
-      "review_flags": [],
-      "reject_reasons": [
-        "股价>150(157.65)"
-      ]
-    },
-    {
-      "code": "sh688549",
-      "name": "中巨芯-U",
-      "close": 23.21,
-      "ma10": 21.616,
-      "change_pct": 20.01,
-      "pe_ttm": -3794.69,
-      "np_yoy": 638.6617,
-      "total_mv": 34288000000.0,
-      "limitup_days": 1,
+      "code": "sz300903",
+      "name": "科翔股份",
+      "close": 64.32,
+      "ma10": 53.608,
+      "change_pct": 20.0,
+      "pe_ttm": -105.65,
+      "np_yoy": -56.3257,
+      "total_mv": 280.04,
       "industry": "电子",
-      "listed_date": "2023-09-08",
-      "business": "电子湿化学品、电子特种气体和前驱体材料的研发、生产和销售。",
+      "listed_date": "2020-11-05",
+      "business": "高密度印制电路板的研发、生产和销售业务。",
+      "limitup_days": 1,
       "review_flags": [],
       "reject_reasons": [
-        "科创板/北交所",
-        "亏损(PE=-3794.7)"
+        "亏损(PE=-105.7)",
+        "净利同比-56.3%<-50%"
       ]
     },
     {
-      "code": "sh603061",
-      "name": "金海通",
-      "close": 292.86,
-      "ma10": 275.732,
+      "code": "sz002180",
+      "name": "奔图科技",
+      "close": 19.69,
+      "ma10": 17.215,
       "change_pct": 10.0,
-      "pe_ttm": 109.18,
-      "pb": 15.12,
-      "total_mv": 25479000000.0,
-      "main_net": 120525295.0,
-      "limitup_days": 2,
-      "industry": "电子",
-      "listed_date": "2023-03-03",
-      "business": "研发、生产并销售半导体芯片测试设备。",
+      "pe_ttm": -37.93,
+      "total_mv": 279.97,
+      "industry": "计算机",
+      "listed_date": "2007-11-13",
+      "business": "集成电路研发、生产与销售业务,打印耗材的生产和销售。激光打印机业务。",
+      "limitup_days": 1,
       "review_flags": [
         "净利同比[MISSING]"
       ],
       "reject_reasons": [
-        "股价>150(292.86)"
-      ]
-    },
-    {
-      "code": "sz002491",
-      "name": "通鼎互联",
-      "close": 16.06,
-      "ma10": 15.146,
-      "change_pct": 10.0,
-      "pe_ttm": -126.01,
-      "total_mv": 19754000000.0,
-      "limitup_days": 1,
-      "industry": "通信",
-      "listed_date": "2010-10-21",
-      "business": "光纤、通信光缆、通信电缆的研发、生产和销售;信息安全系统、大数据采集与挖掘系统和SDN网络设备的软硬件研发、生产、销售和服务。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ],
-      "reject_reasons": [
-        "亏损(PE=-126.0)"
-      ]
-    },
-    {
-      "code": "sh603618",
-      "name": "杭电股份",
-      "close": 26.22,
-      "ma10": 24.182,
-      "change_pct": 9.98,
-      "pe_ttm": -75.81,
-      "total_mv": 18128000000.0,
-      "limitup_days": 1,
-      "industry": "电力设备",
-      "listed_date": "2015-02-17",
-      "business": "电线电缆产品的研发、生产、销售和服务。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ],
-      "reject_reasons": [
-        "亏损(PE=-75.8)"
-      ]
-    },
-    {
-      "code": "sh600629",
-      "name": "华建集团",
-      "close": 15.57,
-      "ma10": 13.472,
-      "change_pct": 10.04,
-      "pe_ttm": 1151.48,
-      "pb": 3.43,
-      "total_mv": 17902000000.0,
-      "main_net": 108791811.0,
-      "np_yoy": -93.178,
-      "limitup_days": 1,
-      "industry": "建筑装饰",
-      "listed_date": "1993-02-09",
-      "business": "以工程设计咨询为核心,为城乡建设提供高品质综合解决方案的集成服务商。",
-      "review_flags": [],
-      "reject_reasons": [
-        "净利同比-93.2%<-50%"
+        "亏损(PE=-37.9)"
       ]
     },
     {
       "code": "sh603773",
       "name": "沃格光电",
-      "close": 78.57,
-      "ma10": 75.2,
+      "close": 86.43,
+      "ma10": 75.583,
       "change_pct": 10.0,
-      "pe_ttm": -95.25,
-      "total_mv": 17659000000.0,
+      "pe_ttm": -104.77,
+      "total_mv": 194.26,
       "limitup_days": 2,
       "industry": "电子",
       "listed_date": "2018-04-17",
@@ -1656,57 +1043,17 @@
         "净利同比[MISSING]"
       ],
       "reject_reasons": [
-        "亏损(PE=-95.2)"
-      ]
-    },
-    {
-      "code": "sh688596",
-      "name": "正帆科技",
-      "close": 57.42,
-      "ma10": 49.904,
-      "change_pct": 20.0,
-      "pe_ttm": 218.9,
-      "pb": 4.73,
-      "total_mv": 16697999999.999998,
-      "main_net": 177887003.0,
-      "limitup_days": 1,
-      "industry": "机械设备",
-      "listed_date": "2020-08-20",
-      "business": "气体化学品供应系统的设计、生产、安装及配套服务;高纯特种气体的生产、销售;洁净厂房配套系统的设计、施工。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ],
-      "reject_reasons": [
-        "科创板/北交所"
-      ]
-    },
-    {
-      "code": "sh600172",
-      "name": "黄河旋风",
-      "close": 11.22,
-      "ma10": 10.574,
-      "change_pct": 10.0,
-      "pe_ttm": -18.41,
-      "total_mv": 16181000000.0,
-      "limitup_days": 1,
-      "industry": "机械设备",
-      "listed_date": "1998-11-26",
-      "business": "超硬材料及其制品、超硬材料聚晶及其制品、机电产品、建筑机械、塔式起重机等。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ],
-      "reject_reasons": [
-        "亏损(PE=-18.4)"
+        "亏损(PE=-104.8)"
       ]
     },
     {
       "code": "sh600397",
       "name": "江钨装备",
-      "close": 15.35,
-      "ma10": 13.737,
-      "change_pct": 10.04,
-      "pe_ttm": -88.11,
-      "total_mv": 15196000000.0,
+      "close": 16.89,
+      "ma10": 13.967,
+      "change_pct": 10.03,
+      "pe_ttm": -96.95,
+      "total_mv": 167.2,
       "limitup_days": 2,
       "industry": "机械设备",
       "listed_date": "2002-07-02",
@@ -1715,208 +1062,91 @@
         "净利同比[MISSING]"
       ],
       "reject_reasons": [
-        "亏损(PE=-88.1)"
+        "亏损(PE=-97.0)"
       ]
     },
     {
-      "code": "sh603826",
-      "name": "坤彩科技",
-      "close": 17.36,
-      "ma10": 15.413,
-      "change_pct": 10.01,
-      "pe_ttm": -355.32,
-      "total_mv": 14787000000.0,
+      "code": "sh600403",
+      "name": "大有能源",
+      "close": 6.41,
+      "ma10": 5.71,
+      "change_pct": 9.95,
+      "pe_ttm": -7.38,
+      "np_yoy": -19.4278,
+      "total_mv": 153.25,
+      "industry": "煤炭",
+      "listed_date": "2003-10-09",
+      "business": "原煤开采、煤炭批发经营、煤炭洗选加工。",
       "limitup_days": 1,
-      "industry": "基础化工",
-      "listed_date": "2017-04-14",
-      "business": "珠光材料的研发、生产与销售。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ],
-      "reject_reasons": [
-        "亏损(PE=-355.3)"
-      ]
-    },
-    {
-      "code": "sz002182",
-      "name": "宝武镁业",
-      "close": 13.12,
-      "ma10": 11.684,
-      "change_pct": 9.97,
-      "pe_ttm": -312.47,
-      "np_yoy": -81.943,
-      "total_mv": 13012000000.0,
-      "limitup_days": 1,
-      "industry": "有色金属",
-      "listed_date": "2007-11-13",
-      "business": "镁、铝合金材料的生产及深加工、销售业务。",
       "review_flags": [],
       "reject_reasons": [
-        "亏损(PE=-312.5)",
-        "净利同比-81.9%<-50%"
+        "亏损(PE=-7.4)"
       ]
     },
     {
-      "code": "sz002348",
-      "name": "高乐股份",
-      "close": 12.12,
-      "ma10": 10.256,
+      "code": "sz000839",
+      "name": "国安股份",
+      "close": 3.14,
+      "ma10": 2.755,
+      "change_pct": 10.18,
+      "pe_ttm": 140.63,
+      "pb": 7.93,
+      "total_mv": 123.08,
+      "main_net": 257907944.0,
+      "np_yoy": -192.8298,
+      "industry": "通信",
+      "listed_date": "1997-10-31",
+      "business": "信息网络基础设施业务中的有线电视网、卫星通信网的投资建设。",
+      "limitup_days": 1,
+      "review_flags": [],
+      "reject_reasons": [
+        "净利同比-192.8%<-50%"
+      ]
+    },
+    {
+      "code": "sz000908",
+      "name": "石药景峰",
+      "close": 6.83,
+      "ma10": 6.202,
       "change_pct": 9.98,
-      "pe_ttm": -283.92,
-      "np_yoy": 5.6431,
-      "total_mv": 12037000000.0,
-      "limitup_days": 2,
-      "industry": "轻工制造",
-      "listed_date": "2010-02-03",
-      "business": "电子电动塑胶玩具的研发、生产和销售,产品涵盖电动火车、线控仿真飞机、机器人、电动车、女仔玩具及磁性学习写字板等诸多系列,为市场提供科技含量高、品质优良的玩具产品",
-      "review_flags": [],
-      "reject_reasons": [
-        "亏损(PE=-283.9)"
-      ]
-    },
-    {
-      "code": "sh600611",
-      "name": "大众交通",
-      "close": 4.69,
-      "ma10": 4.159,
-      "change_pct": 10.09,
-      "pe_ttm": -192.0,
-      "np_yoy": -360.625,
-      "total_mv": 11088000000.0,
+      "pe_ttm": -183.98,
+      "np_yoy": 130.8428,
+      "total_mv": 120.18,
+      "industry": "医药生物",
+      "listed_date": "1999-02-03",
+      "business": "医药产品的研发、制造与销售。",
       "limitup_days": 1,
-      "industry": "交通运输",
-      "listed_date": "1992-08-07",
-      "business": "以城市综合交通服务等产业为主体,以实业和金融为双引擎。",
       "review_flags": [],
       "reject_reasons": [
-        "亏损(PE=-192.0)",
-        "净利同比-360.6%<-50%"
-      ]
-    },
-    {
-      "code": "sz000510",
-      "name": "新金路",
-      "close": 16.12,
-      "ma10": 14.48,
-      "change_pct": 10.03,
-      "pe_ttm": -42.76,
-      "total_mv": 10455000000.0,
-      "limitup_days": 2,
-      "industry": "基础化工",
-      "listed_date": "1993-05-07",
-      "business": "氯碱化工、塑料制品的生产与经营等业务。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ],
-      "reject_reasons": [
-        "亏损(PE=-42.8)"
-      ]
-    },
-    {
-      "code": "sh600556",
-      "name": "天下秀",
-      "close": 5.54,
-      "ma10": 4.6,
-      "change_pct": 9.92,
-      "pe_ttm": 482.47,
-      "pb": 2.62,
-      "total_mv": 10015000000.0,
-      "main_net": 213829327.0,
-      "np_yoy": -75.8196,
-      "limitup_days": 1,
-      "industry": "传媒",
-      "listed_date": "2001-08-07",
-      "business": "向客户提供新媒体营销服务。",
-      "review_flags": [],
-      "reject_reasons": [
-        "净利同比-75.8%<-50%"
-      ]
-    },
-    {
-      "code": "sz002655",
-      "name": "共达电声",
-      "close": 27.07,
-      "ma10": 24.4,
-      "change_pct": 10.0,
-      "pe_ttm": 167.99,
-      "pb": 12.0,
-      "total_mv": 9869000000.0,
-      "main_net": 88046497.0,
-      "np_yoy": -74.7246,
-      "limitup_days": 2,
-      "industry": "电子",
-      "listed_date": "2012-02-17",
-      "business": "微型电声元器件及电声组件的研发、生产和销售",
-      "review_flags": [],
-      "reject_reasons": [
-        "净利同比-74.7%<-50%"
+        "亏损(PE=-184.0)"
       ]
     },
     {
       "code": "sz002214",
       "name": "大立科技",
-      "close": 14.85,
-      "ma10": 13.01,
-      "change_pct": 10.0,
-      "pe_ttm": -39.16,
+      "close": 16.34,
+      "ma10": 13.445,
+      "change_pct": 10.03,
+      "pe_ttm": -43.09,
       "np_yoy": -4.817,
-      "total_mv": 8890000000.0,
+      "total_mv": 97.82,
       "industry": "国防军工",
       "listed_date": "2008-02-18",
       "business": "红外热像仪产品的研发、生产及销售。",
       "limitup_days": 1,
       "review_flags": [],
       "reject_reasons": [
-        "亏损(PE=-39.2)"
-      ]
-    },
-    {
-      "code": "sz002036",
-      "name": "联创电子",
-      "close": 7.8,
-      "ma10": 6.858,
-      "change_pct": 10.01,
-      "pe_ttm": -7.42,
-      "total_mv": 8248999999.999999,
-      "limitup_days": 1,
-      "industry": "电子",
-      "listed_date": "2004-09-03",
-      "business": "光学镜头和触控显示组件的研发、生产及销售。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ],
-      "reject_reasons": [
-        "亏损(PE=-7.4)"
-      ]
-    },
-    {
-      "code": "sz000593",
-      "name": "德龙汇能",
-      "close": 22.52,
-      "ma10": 18.216,
-      "change_pct": 10.01,
-      "pe_ttm": 255.16,
-      "pb": 9.13,
-      "total_mv": 8076000000.000001,
-      "main_net": -9462971.0,
-      "np_yoy": 338.1009,
-      "limitup_days": 4,
-      "industry": "公用事业",
-      "listed_date": "1996-03-12",
-      "business": "主要从事以天然气能源为主的清洁能源供应业务,具体包括三个主要子业务,分别是城市燃气业务、LNG业务和分布式能源业务。",
-      "review_flags": [],
-      "reject_reasons": [
-        "连板4板≥4"
+        "亏损(PE=-43.1)"
       ]
     },
     {
       "code": "sh601700",
       "name": "风范股份",
-      "close": 6.51,
-      "ma10": 5.19,
-      "change_pct": 9.97,
-      "pe_ttm": -23.45,
-      "total_mv": 7413000000.0,
+      "close": 7.16,
+      "ma10": 5.411,
+      "change_pct": 9.98,
+      "pe_ttm": -25.79,
+      "total_mv": 81.54,
       "limitup_days": 3,
       "industry": "电力设备",
       "listed_date": "2011-01-18",
@@ -1925,153 +1155,325 @@
         "净利同比[MISSING]"
       ],
       "reject_reasons": [
-        "亏损(PE=-23.4)"
+        "亏损(PE=-25.8)"
       ]
     },
     {
-      "code": "sh605178",
-      "name": "时空科技",
-      "close": 64.24,
-      "ma10": 61.055,
-      "change_pct": 10.0,
-      "pe_ttm": -29.53,
-      "np_yoy": 80.929,
-      "total_mv": 6365000000.0,
-      "industry": "建筑装饰",
-      "listed_date": "2020-08-21",
-      "business": "照明工程系统集成服务。",
+      "code": "sh603123",
+      "name": "翠微股份",
+      "close": 10.07,
+      "ma10": 9.103,
+      "change_pct": 10.05,
+      "pe_ttm": -18.74,
+      "total_mv": 80.43,
+      "industry": "商贸零售",
+      "listed_date": "2012-05-03",
+      "business": "百货零售业务,第三方支付服务。",
+      "limitup_days": 1,
+      "review_flags": [
+        "净利同比[MISSING]"
+      ],
+      "reject_reasons": [
+        "亏损(PE=-18.7)"
+      ]
+    },
+    {
+      "code": "sz301251",
+      "name": "威尔高",
+      "close": 39.83,
+      "ma10": 30.901,
+      "change_pct": 20.01,
+      "pe_ttm": 145.01,
+      "pb": 4.85,
+      "total_mv": 75.11,
+      "main_net": 86308308.0,
+      "np_yoy": -69.5278,
+      "industry": "电子",
+      "listed_date": "2023-09-06",
+      "business": "印制电路板的研发、生产和销售。",
       "limitup_days": 1,
       "review_flags": [],
       "reject_reasons": [
-        "亏损(PE=-29.5)"
+        "净利同比-69.5%<-50%"
       ]
     },
     {
-      "code": "sz300552",
-      "name": "万集科技",
-      "close": 24.88,
-      "ma10": 20.256,
-      "change_pct": 20.02,
-      "pe_ttm": -34.02,
-      "total_mv": 5303000000.0,
+      "code": "sz002052",
+      "name": "同洲电子",
+      "close": 9.75,
+      "ma10": 8.793,
+      "change_pct": 10.05,
+      "pe_ttm": 120.26,
+      "pb": 26.34,
+      "total_mv": 73.36,
+      "main_net": 50625349.0,
+      "np_yoy": -94.8402,
+      "industry": "电力设备",
+      "listed_date": "2006-06-27",
+      "business": "广电智能设备研发、制造、销售与服务业务和锂离子电池及电池组的研发、制造与销售业务。",
+      "limitup_days": 1,
+      "review_flags": [],
+      "reject_reasons": [
+        "净利同比-94.8%<-50%"
+      ]
+    },
+    {
+      "code": "sz002194",
+      "name": "武汉凡谷",
+      "close": 10.09,
+      "ma10": 8.858,
+      "change_pct": 10.03,
+      "pe_ttm": -331.78,
+      "total_mv": 68.94,
+      "industry": "通信",
+      "listed_date": "2007-12-07",
+      "business": "移动通信天馈系统射频子系统及器件的研制、生产、销售和服务。",
+      "limitup_days": 1,
+      "review_flags": [
+        "净利同比[MISSING]"
+      ],
+      "reject_reasons": [
+        "亏损(PE=-331.8)"
+      ]
+    },
+    {
+      "code": "sz002649",
+      "name": "博彦科技",
+      "close": 11.29,
+      "ma10": 9.247,
+      "change_pct": 10.04,
+      "pe_ttm": 151.51,
+      "pb": 1.62,
+      "total_mv": 66.77,
+      "main_net": 92565608.0,
+      "np_yoy": -83.7861,
       "limitup_days": 1,
       "industry": "计算机",
-      "listed_date": "2016-10-21",
-      "business": "公路交通和城市交通客户提供动态称重、专用短程通信、激光检测等系列产品的研发和生产,以及相关的方案设计、施工安装、软件开发以及维保等相关服务。",
+      "listed_date": "2012-01-06",
+      "business": "产品及解决方案、研发工程服务和IT运营维护。",
+      "review_flags": [],
+      "reject_reasons": [
+        "净利同比-83.8%<-50%"
+      ]
+    },
+    {
+      "code": "sh605366",
+      "name": "宏柏新材",
+      "close": 8.47,
+      "ma10": 7.349,
+      "change_pct": 10.0,
+      "pe_ttm": -38.92,
+      "total_mv": 65.46,
+      "industry": "基础化工",
+      "listed_date": "2020-08-12",
+      "business": "功能性硅烷、纳米硅材料等硅基新材料及其他化学助剂的研发、生产与销售。",
+      "limitup_days": 1,
       "review_flags": [
         "净利同比[MISSING]"
       ],
       "reject_reasons": [
-        "亏损(PE=-34.0)"
+        "亏损(PE=-38.9)"
       ]
     },
     {
-      "code": "sz003032",
-      "name": "传智教育",
-      "close": 11.73,
-      "ma10": 7.989,
-      "change_pct": 10.04,
-      "pe_ttm": -56.45,
-      "np_yoy": 127.1843,
-      "total_mv": 4721000000.0,
-      "limitup_days": 8,
-      "industry": "社会服务",
-      "listed_date": "2021-01-12",
-      "business": "非学历、应用型计算机信息技术(IT)教育培训",
+      "code": "sz002302",
+      "name": "西部建设",
+      "close": 5.08,
+      "ma10": 4.616,
+      "change_pct": 9.96,
+      "pe_ttm": -9.14,
+      "np_yoy": 11.1725,
+      "total_mv": 64.13,
+      "industry": "建筑材料",
+      "listed_date": "2009-11-03",
+      "business": "高性能预拌砼的生产、销售及其新技术、新工艺的研究开发与推广;新型建材及化工材料的研究及生产应用。",
+      "limitup_days": 1,
       "review_flags": [],
       "reject_reasons": [
-        "连板8板≥4",
-        "亏损(PE=-56.5)"
+        "亏损(PE=-9.1)"
       ]
     },
     {
-      "code": "sz300686",
-      "name": "智动力",
-      "close": 15.06,
-      "ma10": 12.049,
+      "code": "sh603221",
+      "name": "爱丽家居",
+      "close": 24.79,
+      "ma10": 16.761,
+      "change_pct": 9.98,
+      "pe_ttm": -303.0,
+      "total_mv": 60.06,
+      "industry": "轻工制造",
+      "listed_date": "2020-03-23",
+      "business": "PVC塑料地板的研发、生产和销售。",
+      "limitup_days": 1,
+      "review_flags": [
+        "净利同比[MISSING]"
+      ],
+      "reject_reasons": [
+        "亏损(PE=-303.0)"
+      ]
+    },
+    {
+      "code": "sz003040",
+      "name": "楚天龙",
+      "close": 12.46,
+      "ma10": 11.044,
+      "change_pct": 9.97,
+      "pe_ttm": -244.52,
+      "total_mv": 57.46,
+      "industry": "通信",
+      "listed_date": "2021-03-22",
+      "business": "从事智能卡的设计、研发、生产、销售和服务。",
+      "limitup_days": 1,
+      "review_flags": [
+        "净利同比[MISSING]"
+      ],
+      "reject_reasons": [
+        "亏损(PE=-244.5)"
+      ]
+    },
+    {
+      "code": "sh688693",
+      "name": "锴威特",
+      "close": 77.82,
+      "ma10": 60.493,
       "change_pct": 20.0,
-      "pe_ttm": -24.22,
-      "np_yoy": -116.3038,
-      "total_mv": 3925000000.0,
-      "limitup_days": 1,
+      "pe_ttm": -59.75,
+      "total_mv": 57.34,
       "industry": "电子",
-      "listed_date": "2017-08-04",
-      "business": "手机等消费电子功能性器件的研发、生产和销售。",
+      "listed_date": "2023-08-18",
+      "business": "功率半导体的设计、研发和销售，并提供相关技术服务。",
+      "limitup_days": 1,
+      "review_flags": [
+        "净利同比[MISSING]"
+      ],
+      "reject_reasons": [
+        "科创板/北交所",
+        "亏损(PE=-59.8)"
+      ]
+    },
+    {
+      "code": "sz300386",
+      "name": "飞天诚信",
+      "close": 12.56,
+      "ma10": 10.215,
+      "change_pct": 19.96,
+      "pe_ttm": -127.27,
+      "total_mv": 52.51,
+      "industry": "计算机",
+      "listed_date": "2014-06-26",
+      "business": "以身份认证为核心的信息安全产品的研发、生产、销售和服务。",
+      "limitup_days": 1,
+      "review_flags": [
+        "净利同比[MISSING]"
+      ],
+      "reject_reasons": [
+        "亏损(PE=-127.3)"
+      ]
+    },
+    {
+      "code": "sh600121",
+      "name": "郑州煤电",
+      "close": 4.3,
+      "ma10": 3.823,
+      "change_pct": 9.97,
+      "pe_ttm": -4.93,
+      "np_yoy": -224.7807,
+      "total_mv": 52.39,
+      "industry": "煤炭",
+      "listed_date": "1998-01-07",
+      "business": "煤炭生产及销售,发电及输变电。",
+      "limitup_days": 1,
       "review_flags": [],
       "reject_reasons": [
-        "亏损(PE=-24.2)",
-        "净利同比-116.3%<-50%"
+        "亏损(PE=-4.9)",
+        "净利同比-224.8%<-50%"
       ]
     },
     {
-      "code": "sz002766",
-      "name": "索菱股份",
-      "close": 4.39,
-      "ma10": 3.82,
-      "change_pct": 10.03,
-      "pe_ttm": -50.8,
-      "total_mv": 3775000000.0,
+      "code": "sz000720",
+      "name": "新能泰山",
+      "close": 3.93,
+      "ma10": 3.481,
+      "change_pct": 10.08,
+      "pe_ttm": -9.93,
+      "total_mv": 49.38,
+      "industry": "电力设备",
+      "listed_date": "1997-05-09",
+      "business": "电线电缆制造;房地产开发经营业务。",
       "limitup_days": 1,
-      "industry": "汽车",
-      "listed_date": "2015-06-11",
-      "business": "从事CID系统的研发、生产、销售、并以此为基础向客户提供专业车联网服务。",
       "review_flags": [
         "净利同比[MISSING]"
       ],
       "reject_reasons": [
-        "亏损(PE=-50.8)"
+        "亏损(PE=-9.9)"
       ]
     },
     {
-      "code": "sh688600",
-      "name": "皖仪科技",
-      "close": 27.44,
-      "ma10": 23.014,
-      "change_pct": 19.98,
-      "pe_ttm": 50.81,
-      "pb": 4.75,
-      "total_mv": 3696000000.0,
-      "main_net": 33673858.0,
+      "code": "sh603122",
+      "name": "合富中国",
+      "close": 12.39,
+      "ma10": 10.671,
+      "change_pct": 10.04,
+      "pe_ttm": -137.28,
+      "np_yoy": -38.0576,
+      "total_mv": 49.32,
+      "industry": "医药生物",
+      "listed_date": "2022-02-16",
+      "business": "体外诊断产品集约化业务、医疗产品流通、其它增值服务",
       "limitup_days": 1,
-      "industry": "机械设备",
-      "listed_date": "2020-07-03",
-      "business": "工业检测仪器、在线监测仪器、实验室分析仪器、医疗仪器等仪器的研发、生产、销售。",
+      "review_flags": [],
+      "reject_reasons": [
+        "亏损(PE=-137.3)"
+      ]
+    },
+    {
+      "code": "sh600758",
+      "name": "辽宁能源",
+      "close": 3.67,
+      "ma10": 3.301,
+      "change_pct": 9.88,
+      "pe_ttm": -10.03,
+      "np_yoy": -222.5087,
+      "total_mv": 48.52,
+      "industry": "煤炭",
+      "listed_date": "1996-10-29",
+      "business": "煤炭开采、洗选加工和销售,电力、热力的生产和供应。",
+      "limitup_days": 1,
+      "review_flags": [],
+      "reject_reasons": [
+        "亏损(PE=-10.0)",
+        "净利同比-222.5%<-50%"
+      ]
+    },
+    {
+      "code": "sh600127",
+      "name": "金健米业",
+      "close": 6.17,
+      "ma10": 5.617,
+      "change_pct": 9.98,
+      "pe_ttm": -759.27,
+      "total_mv": 39.6,
+      "industry": "农林牧渔",
+      "listed_date": "1998-05-06",
+      "business": "优质粮油、新型健康食品开发、生产、销售和农产品国际国内贸易。",
+      "limitup_days": 1,
       "review_flags": [
         "净利同比[MISSING]"
       ],
       "reject_reasons": [
-        "科创板/北交所"
-      ]
-    },
-    {
-      "code": "sh603657",
-      "name": "春光科技",
-      "close": 26.14,
-      "ma10": 21.726,
-      "change_pct": 10.02,
-      "pe_ttm": -72.45,
-      "total_mv": 3534000000.0000005,
-      "limitup_days": 1,
-      "industry": "家用电器",
-      "listed_date": "2018-07-30",
-      "business": "清洁电器软管、配件产品及整机ODM/OEM产品的研发、生产和销售。",
-      "review_flags": [
-        "净利同比[MISSING]"
-      ],
-      "reject_reasons": [
-        "亏损(PE=-72.5)"
+        "亏损(PE=-759.3)"
       ]
     },
     {
       "code": "sh600721",
       "name": "百花医药",
-      "close": 8.71,
-      "ma10": 7.239,
-      "change_pct": 9.97,
-      "pe_ttm": 125.87,
-      "pb": 4.22,
-      "total_mv": 3349000000.0,
-      "main_net": 24254071.0,
+      "close": 9.58,
+      "ma10": 7.502,
+      "change_pct": 9.99,
+      "pe_ttm": 138.44,
+      "pb": 4.65,
+      "total_mv": 36.84,
+      "main_net": 36610648.0,
       "np_yoy": -67.9418,
       "limitup_days": 2,
       "industry": "医药生物",
@@ -2085,11 +1487,11 @@
     {
       "code": "sz002425",
       "name": "凯撒文化",
-      "close": 3.47,
-      "ma10": 2.796,
-      "change_pct": 10.16,
-      "pe_ttm": -6.04,
-      "total_mv": 3320000000.0000005,
+      "close": 3.82,
+      "ma10": 2.923,
+      "change_pct": 10.09,
+      "pe_ttm": -6.65,
+      "total_mv": 36.54,
       "limitup_days": 2,
       "industry": "传媒",
       "listed_date": "2010-06-08",
@@ -2098,55 +1500,72 @@
         "净利同比[MISSING]"
       ],
       "reject_reasons": [
-        "亏损(PE=-6.0)"
+        "亏损(PE=-6.7)"
       ]
     },
     {
-      "code": "sz002355",
-      "name": "兴民智通",
-      "close": 4.94,
-      "ma10": 4.374,
-      "change_pct": 10.02,
-      "pe_ttm": -5.27,
-      "total_mv": 3302000000.0000005,
-      "industry": "汽车",
-      "listed_date": "2010-02-09",
-      "business": "钢制车轮业务、车载信息系统及服务和车联网运营服务。",
+      "code": "sz003029",
+      "name": "吉大正元",
+      "close": 18.76,
+      "ma10": 16.518,
+      "change_pct": 10.03,
+      "pe_ttm": -37.41,
+      "total_mv": 36.32,
+      "industry": "计算机",
+      "listed_date": "2020-12-24",
+      "business": "网络安全产品、网络安全服务和网络安全生态业务。",
       "limitup_days": 1,
       "review_flags": [
         "净利同比[MISSING]"
       ],
       "reject_reasons": [
-        "亏损(PE=-5.3)"
+        "亏损(PE=-37.4)"
       ]
     },
     {
-      "code": "sz002908",
-      "name": "德生科技",
-      "close": 7.58,
-      "ma10": 6.666,
-      "change_pct": 10.01,
-      "pe_ttm": -453.02,
-      "np_yoy": -248.1448,
-      "total_mv": 3270000000.0000005,
-      "industry": "计算机",
-      "listed_date": "2017-10-20",
-      "business": "面向人社、就业、金融、医疗、大数据等领域提供信息系统建设和相关运营服务,以城市为单位,涵盖社保卡制发和应用、居民服务“一卡通”体系建设、基于大数据的人力资源运营",
+      "code": "sh600156",
+      "name": "华升股份",
+      "close": 8.84,
+      "ma10": 7.565,
+      "change_pct": 9.95,
+      "pe_ttm": -124.71,
+      "np_yoy": 53.6856,
+      "total_mv": 35.55,
+      "industry": "纺织服饰",
+      "listed_date": "1998-05-27",
+      "business": "从事苎麻纺、织、印染及服装服饰、医药机械的生产、销售及外贸进出口。",
       "limitup_days": 1,
       "review_flags": [],
       "reject_reasons": [
-        "亏损(PE=-453.0)",
-        "净利同比-248.1%<-50%"
+        "亏损(PE=-124.7)"
+      ]
+    },
+    {
+      "code": "sz002369",
+      "name": "卓翼科技",
+      "close": 6.27,
+      "ma10": 5.507,
+      "change_pct": 10.0,
+      "pe_ttm": -14.4,
+      "np_yoy": 35.6045,
+      "total_mv": 35.55,
+      "industry": "电子",
+      "listed_date": "2010-03-16",
+      "business": "提供网络通讯、消费电子以及智能终端产品的研发、生产制造与销售服务。",
+      "limitup_days": 1,
+      "review_flags": [],
+      "reject_reasons": [
+        "亏损(PE=-14.4)"
       ]
     },
     {
       "code": "sz300615",
       "name": "欣天科技",
-      "close": 15.02,
-      "ma10": 9.923,
+      "close": 18.02,
+      "ma10": 10.784,
       "change_pct": 19.97,
-      "pe_ttm": -75.29,
-      "total_mv": 2899000000.0,
+      "pe_ttm": -90.33,
+      "total_mv": 34.78,
       "limitup_days": 3,
       "industry": "通信",
       "listed_date": "2017-02-15",
@@ -2155,18 +1574,18 @@
         "净利同比[MISSING]"
       ],
       "reject_reasons": [
-        "亏损(PE=-75.3)"
+        "亏损(PE=-90.3)"
       ]
     },
     {
       "code": "sz002963",
       "name": "豪尔赛",
-      "close": 17.59,
-      "ma10": 13.926,
+      "close": 19.35,
+      "ma10": 14.544,
       "change_pct": 10.01,
-      "pe_ttm": -24.09,
+      "pe_ttm": -26.51,
       "np_yoy": 79.0379,
-      "total_mv": 2645000000.0,
+      "total_mv": 29.09,
       "limitup_days": 4,
       "industry": "建筑装饰",
       "listed_date": "2019-10-28",
@@ -2174,17 +1593,36 @@
       "review_flags": [],
       "reject_reasons": [
         "连板4板≥4",
-        "亏损(PE=-24.1)"
+        "亏损(PE=-26.5)"
+      ]
+    },
+    {
+      "code": "sh600665",
+      "name": "天地源",
+      "close": 3.33,
+      "ma10": 2.892,
+      "change_pct": 9.9,
+      "pe_ttm": -2.06,
+      "total_mv": 28.78,
+      "industry": "房地产",
+      "listed_date": "1993-07-09",
+      "business": "房地产开发和经营、自有房屋租赁,物业管理,实业投资、资产管理,国内贸易(除专项规定),与经营相关的咨询业务。",
+      "limitup_days": 1,
+      "review_flags": [
+        "净利同比[MISSING]"
+      ],
+      "reject_reasons": [
+        "亏损(PE=-2.1)"
       ]
     },
     {
       "code": "sh600892",
       "name": "大晟文化",
-      "close": 4.16,
-      "ma10": 3.378,
-      "change_pct": 10.05,
-      "pe_ttm": -26.43,
-      "total_mv": 2327000000.0,
+      "close": 4.58,
+      "ma10": 3.525,
+      "change_pct": 10.1,
+      "pe_ttm": -29.09,
+      "total_mv": 25.62,
       "limitup_days": 2,
       "industry": "传媒",
       "listed_date": "1996-03-15",
@@ -2193,7 +1631,7 @@
         "净利同比[MISSING]"
       ],
       "reject_reasons": [
-        "亏损(PE=-26.4)"
+        "亏损(PE=-29.1)"
       ]
     }
   ]
