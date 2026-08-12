@@ -234,7 +234,7 @@
     "price_status": "明显踏空（+24.4%）",
     "reprice_reason": "明显踏空，触发重新定价评审：基于技术支撑位设新买点，止损同步上移，仓位下调；估值锚型须谨慎",
     "trailing_stop_suggestion": 52.05,
-    "reprice_date": "2026-08-11"
+    "reprice_date": "2026-08-12"
   },
   {
     "code": "sh600188",
@@ -356,7 +356,7 @@
     "price_status": "明显踏空（+16.4%）",
     "reprice_reason": "明显踏空，触发重新定价评审：基于技术支撑位设新买点，止损同步上移，仓位下调；估值锚型须谨慎",
     "trailing_stop_suggestion": null,
-    "reprice_date": "2026-08-11"
+    "reprice_date": "2026-08-12"
   },
   {
     "code": "sz002534",
@@ -414,7 +414,7 @@
     "price_status": "明显踏空（+18.0%）",
     "reprice_reason": "明显踏空，触发重新定价评审：基于技术支撑位设新买点，止损同步上移，仓位下调；估值锚型须谨慎",
     "trailing_stop_suggestion": 14.66,
-    "reprice_date": "2026-08-11"
+    "reprice_date": "2026-08-12"
   },
   {
     "code": "sz002498",
@@ -537,7 +537,7 @@
     "price_status": "明显踏空（+28.2%）",
     "reprice_reason": "明显踏空，触发重新定价评审：基于技术支撑位设新买点，止损同步上移，仓位下调；估值锚型须谨慎",
     "trailing_stop_suggestion": 11.79,
-    "reprice_date": "2026-08-11"
+    "reprice_date": "2026-08-12"
   },
   {
     "code": "sh600468",
@@ -719,7 +719,7 @@
     "price_status": "明显踏空（+15.0%）",
     "reprice_reason": "明显踏空，触发重新定价评审：基于技术支撑位设新买点，止损同步上移，仓位下调；估值锚型须谨慎",
     "trailing_stop_suggestion": null,
-    "reprice_date": "2026-08-11"
+    "reprice_date": "2026-08-12"
   },
   {
     "code": "sz002437",
@@ -781,7 +781,7 @@
     "price_status": "明显踏空（+23.1%）",
     "reprice_reason": "明显踏空，触发重新定价评审：基于技术支撑位设新买点，止损同步上移，仓位下调；估值锚型须谨慎",
     "trailing_stop_suggestion": 3.28,
-    "reprice_date": "2026-08-11"
+    "reprice_date": "2026-08-12"
   },
   {
     "code": "sz000739",
@@ -841,5 +841,67 @@
     "price_status": "轻微踏空（+7.1%）",
     "trailing_stop_suggestion": null,
     "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）"
+  },
+  {
+    "code": "sh603087",
+    "name": "甘李药业",
+    "full_code": "603087.SH",
+    "market": "沪主板",
+    "sector": "医药生物/胰岛素",
+    "concept": [
+      "重组胰岛素",
+      "创新药",
+      "糖尿病用药",
+      "国产替代"
+    ],
+    "price": 78.21,
+    "prev_close": 74.47,
+    "change_pct": 5.02,
+    "change_5d": 11.5,
+    "change_20d": 25.0,
+    "volume": 367702,
+    "turnover_pct": 6.55,
+    "pe_ttm": 30.5,
+    "pb": 4.2,
+    "market_cap": 466.7,
+    "ma10": 76.3,
+    "above_ma10": true,
+    "limit_up_count_7d": 1,
+    "limit_up_dates": [
+      "2026-08-11"
+    ],
+    "buy_low": 75.0,
+    "sell_high": 84.0,
+    "stop_loss": 70.0,
+    "score": 81,
+    "rating": "强推",
+    "health": "healthy",
+    "analysis": {
+      "fundamental": "重组胰岛素类似物龙头。Q1 2026 净利 1.92 亿，EPS 0.33，扣非稳健。糖尿病胰岛素国产替代核心标的，IPO 2020-06-29（老股，非次新）。",
+      "technical": "8/12 放量 +5.0% 至 78.21 元，60 日新高 79.99 元。8/11 涨停启动第二波，MA10 76.3 站上。换手 6.55% 健康。",
+      "sector": "医药生物 82 分（强持续）。板块 11+ 涨停共振，沪主板 4 千亿龙头资金抱团。",
+      "valuation": "PE 30.5/PB 4.2，PEG<1 估值合理。"
+    },
+    "action": "watch",
+    "tags": [
+      "新候选",
+      "重组胰岛素",
+      "医药强持续",
+      "60日新高",
+      "放量突破"
+    ],
+    "risks": [
+      "8/12 已 +5% 离买点仅 4.2%，若继续上涨可能错失买点",
+      "PE 30.5 偏高",
+      "需等待回踩 75.0-76.5 区间",
+      "若板块持续性回落则需重新评估"
+    ],
+    "buy_low_base": 75.0,
+    "gap_pct": 4.28,
+    "entry_type": "wait",
+    "price_status": "轻微踏空（+4.3%）",
+    "trailing_stop_suggestion": 71.95,
+    "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
+    "reprice_date": "2026-08-12"
   }
 ]
