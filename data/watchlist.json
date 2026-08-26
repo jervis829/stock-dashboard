@@ -10,12 +10,12 @@
       "电网设备",
       "电力物联网"
     ],
-    "price": 25.33,
-    "prev_close": 24.92,
-    "change_pct": 1.65,
+    "price": 25.51,
+    "prev_close": 25.31,
+    "change_pct": 0.79,
     "change_5d": 3.0,
     "change_20d": 20.0,
-    "volume": 254522,
+    "volume": 44662,
     "turnover_pct": 1.35,
     "pe_ttm": 18.62,
     "pb": 1.79,
@@ -51,12 +51,12 @@
       "主力净流出9.33亿"
     ],
     "buy_low_base": 24.3,
-    "gap_pct": 4.24,
+    "gap_pct": 4.98,
     "entry_type": "wait",
-    "price_status": "轻微踏空（+4.2%）",
+    "price_status": "轻微踏空（+5.0%）",
     "trailing_stop_suggestion": null,
     "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
-    "reprice_date": "2026-08-25"
+    "reprice_date": "2026-08-26"
   },
   {
     "code": "sh601138",
@@ -70,12 +70,12 @@
       "液冷",
       "算力硬件"
     ],
-    "price": 66.23,
-    "prev_close": 65.23,
-    "change_pct": 0.0,
+    "price": 60.63,
+    "prev_close": 60.15,
+    "change_pct": 0.8,
     "change_5d": 20.0,
     "change_20d": 17.0,
-    "volume": 118361000,
+    "volume": 423156,
     "turnover_pct": 0.6,
     "pe_ttm": 28.02,
     "pb": 7.48,
@@ -112,12 +112,12 @@
       "海外AI资本开支节奏"
     ],
     "buy_low_base": 58.8,
-    "gap_pct": 12.64,
+    "gap_pct": 3.11,
     "entry_type": "wait",
-    "price_status": "轻微踏空（+12.6%）",
+    "price_status": "轻微踏空（+3.1%）",
     "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
     "trailing_stop_suggestion": null,
-    "reprice_date": "2026-08-17"
+    "reprice_date": "2026-08-26"
   },
   {
     "code": "sz002080",
@@ -131,12 +131,12 @@
       "风电叶片",
       "锂电隔膜"
     ],
-    "price": 48.86,
-    "prev_close": 49.43,
-    "change_pct": -1.15,
+    "price": 49.94,
+    "prev_close": 49.0,
+    "change_pct": 1.92,
     "change_5d": 15.0,
     "change_20d": 11.0,
-    "volume": 495734,
+    "volume": 376412,
     "turnover_pct": 3.41,
     "pe_ttm": 51.59,
     "pb": 5.14,
@@ -173,12 +173,12 @@
       "锂电隔膜价格竞争"
     ],
     "buy_low_base": 45.5,
-    "gap_pct": 7.38,
+    "gap_pct": 9.76,
     "entry_type": "wait",
-    "price_status": "轻微踏空（+7.4%）",
+    "price_status": "轻微踏空（+9.8%）",
     "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
     "trailing_stop_suggestion": null,
-    "reprice_date": "2026-08-25"
+    "reprice_date": "2026-08-26"
   },
   {
     "code": "sh601231",
@@ -192,12 +192,12 @@
       "苹果产业链",
       "AI终端"
     ],
-    "price": 26.61,
-    "prev_close": 25.9,
-    "change_pct": 2.74,
+    "price": 26.72,
+    "prev_close": 26.45,
+    "change_pct": 1.02,
     "change_5d": 13.0,
     "change_20d": 9.0,
-    "volume": 320046,
+    "volume": 108543,
     "turnover_pct": 0.93,
     "pe_ttm": 32.44,
     "pb": 2.95,
@@ -234,12 +234,12 @@
       "电子板块降级"
     ],
     "buy_low_base": 23.5,
-    "gap_pct": 13.23,
+    "gap_pct": 13.7,
     "entry_type": "wait",
-    "price_status": "轻微踏空（+13.2%）",
+    "price_status": "轻微踏空（+13.7%）",
     "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
     "trailing_stop_suggestion": null,
-    "reprice_date": "2026-08-25"
+    "reprice_date": "2026-08-26"
   },
   {
     "code": "sz002534",
@@ -252,12 +252,12 @@
       "电力设备",
       "清洁能源"
     ],
-    "price": 14.9,
-    "prev_close": 15.1,
-    "change_pct": -1.32,
+    "price": 15.04,
+    "prev_close": 14.83,
+    "change_pct": 1.42,
     "change_5d": 18.0,
     "change_20d": -2.0,
-    "volume": 87876,
+    "volume": 47088,
     "turnover_pct": 0.95,
     "pe_ttm": 29.49,
     "pb": 2.34,
@@ -292,12 +292,12 @@
       "偏离10日线+13.8%"
     ],
     "buy_low_base": 12.5,
-    "gap_pct": 10.37,
+    "gap_pct": 11.41,
     "entry_type": "wait",
-    "price_status": "轻微踏空（+10.4%）",
+    "price_status": "轻微踏空（+11.4%）",
     "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
-    "trailing_stop_suggestion": 13.71,
-    "reprice_date": "2026-08-25"
+    "trailing_stop_suggestion": 13.84,
+    "reprice_date": "2026-08-26"
   },
   {
     "code": "sz002498",
@@ -310,12 +310,12 @@
       "电网设备",
       "特高压"
     ],
-    "price": 6.27,
-    "prev_close": 6.19,
-    "change_pct": 1.29,
+    "price": 6.39,
+    "prev_close": 6.26,
+    "change_pct": 2.08,
     "change_5d": 1.5,
     "change_20d": 20.0,
-    "volume": 642340,
+    "volume": 366574,
     "turnover_pct": 1.12,
     "pe_ttm": 38.99,
     "pb": 2.56,
@@ -351,15 +351,16 @@
       "PE 42偏高",
       "距卖点-18%",
       "3连板后动能衰减",
-      "板块70分↓"
+      "板块70分↓",
+      "距止损6.4仅0.2%，极近止损线"
     ],
     "buy_low_base": 5.8,
-    "gap_pct": -9.13,
+    "gap_pct": -7.39,
     "entry_type": "wait",
     "price_status": "低于买点，维持等回踩",
     "trailing_stop_suggestion": null,
     "reprice_reason": "现价在买点下方或附近，原买点有效，维持等待回踩",
-    "reprice_date": "2026-08-25"
+    "reprice_date": "2026-08-26"
   },
   {
     "code": "sh600601",
@@ -373,12 +374,12 @@
       "国企改革",
       "华为概念"
     ],
-    "price": 11.55,
-    "prev_close": 11.54,
-    "change_pct": 0.09,
+    "price": 11.61,
+    "prev_close": 11.55,
+    "change_pct": 0.52,
     "change_5d": 18.0,
     "change_20d": 35.0,
-    "volume": 1882152,
+    "volume": 540811,
     "turnover_pct": 2.86,
     "pe_ttm": 86.79,
     "pb": 11.12,
@@ -416,12 +417,12 @@
       "板块降级至70分"
     ],
     "buy_low_base": 10.0,
-    "gap_pct": 15.5,
+    "gap_pct": 16.1,
     "entry_type": "reprice",
-    "price_status": "明显踏空（+15.5%）",
+    "price_status": "明显踏空（+16.1%）",
     "reprice_reason": "明显踏空，触发重新定价评审：基于技术支撑位设新买点，止损同步上移，仓位下调；估值锚型须谨慎",
     "trailing_stop_suggestion": null,
-    "reprice_date": "2026-08-25"
+    "reprice_date": "2026-08-26"
   },
   {
     "code": "sh600468",
@@ -434,12 +435,12 @@
       "超导",
       "电气"
     ],
-    "price": 5.98,
-    "prev_close": 5.87,
-    "change_pct": 1.87,
+    "price": 6.57,
+    "prev_close": 5.97,
+    "change_pct": 10.05,
     "change_5d": 16.0,
     "change_20d": 30.0,
-    "volume": 196711,
+    "volume": 146532,
     "turnover_pct": 1.36,
     "pe_ttm": 80.45,
     "pb": 3.3,
@@ -468,21 +469,23 @@
       "PE极高",
       "板块降级",
       "降级观察",
-      "-3.80%回调"
+      "-3.80%回调",
+      "今日+10%涨停⚠️"
     ],
     "risks": [
       "PE 88.74极高",
       "ROE 4.09%偏低",
       "板块70分↓",
-      "若续跌→剔除"
+      "若续跌→剔除",
+      "今日+10%一字涨停后开板，明日观察能否封板延续"
     ],
     "buy_low_base": 5.8,
-    "gap_pct": 1.36,
+    "gap_pct": 11.36,
     "entry_type": "wait",
-    "price_status": "轻微踏空（+1.4%）",
+    "price_status": "轻微踏空（+11.4%）",
     "trailing_stop_suggestion": null,
     "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
-    "reprice_date": "2026-08-25"
+    "reprice_date": "2026-08-26"
   },
   {
     "code": "sz002112",
@@ -496,12 +499,12 @@
       "电网投资",
       "特高压"
     ],
-    "price": 15.29,
-    "prev_close": 15.22,
-    "change_pct": 0.46,
+    "price": 15.46,
+    "prev_close": 15.3,
+    "change_pct": 1.05,
     "change_5d": 8.0,
     "change_20d": 15.0,
-    "volume": 157852,
+    "volume": 85236,
     "turnover_pct": 3.43,
     "pe_ttm": 303.37,
     "pb": 5.71,
@@ -539,12 +542,12 @@
       "若放量跌破10日线16.5剔除"
     ],
     "buy_low_base": 14.5,
-    "gap_pct": -4.44,
+    "gap_pct": -3.37,
     "entry_type": "wait",
     "price_status": "低于买点，维持等回踩",
     "trailing_stop_suggestion": null,
     "reprice_reason": "现价在买点下方或附近，原买点有效，维持等待回踩",
-    "reprice_date": "2026-08-25"
+    "reprice_date": "2026-08-26"
   },
   {
     "code": "sh600267",
@@ -558,12 +561,12 @@
       "原料药",
       "减肥药"
     ],
-    "price": 12.27,
-    "prev_close": 12.06,
-    "change_pct": 1.74,
+    "price": 12.35,
+    "prev_close": 12.28,
+    "change_pct": 0.57,
     "change_5d": 16.0,
     "change_20d": 20.0,
-    "volume": 458627,
+    "volume": 312456,
     "turnover_pct": 3.4,
     "pe_ttm": 23.78,
     "pb": 1.96,
@@ -600,12 +603,12 @@
       "连续大涨后偏离10日线"
     ],
     "buy_low_base": 12.0,
-    "gap_pct": 2.25,
+    "gap_pct": 2.92,
     "entry_type": "wait",
-    "price_status": "轻微踏空（+2.2%）",
+    "price_status": "轻微踏空（+2.9%）",
     "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
     "trailing_stop_suggestion": null,
-    "reprice_date": "2026-08-25"
+    "reprice_date": "2026-08-26"
   },
   {
     "code": "sz002437",
@@ -618,12 +621,12 @@
       "CRO",
       "处方药"
     ],
-    "price": 4.3,
-    "prev_close": 3.94,
-    "change_pct": 9.14,
+    "price": 4.13,
+    "prev_close": 4.3,
+    "change_pct": -3.95,
     "change_5d": 13.0,
     "change_20d": 10.0,
-    "volume": 6739775,
+    "volume": 5966952,
     "turnover_pct": 36.86,
     "pe_ttm": 24.38,
     "pb": 4.2,
@@ -652,22 +655,23 @@
       "创新药",
       "低PE",
       "小盘高弹性",
-      "换手极高⚠️",
-      "短线过热"
+      "突破卖点⚠️",
+      "短线波动大",
+      "减仓待审"
     ],
     "risks": [
-      "换手26%极高+短线过热",
-      "小市值风险",
-      "距卖点-10.8%",
-      "连续大涨后回调压力大"
+      "现价4.13已超卖点4.0，触发止盈评审",
+      "今日-3.95%冲高回落，短线资金分歧大",
+      "换手率极高，短线风险累积",
+      "板块医药88分强持续但个股波动剧烈"
     ],
     "buy_low_base": 2.9,
-    "gap_pct": 48.28,
+    "gap_pct": 42.41,
     "entry_type": "reprice",
-    "price_status": "深度踏空（+48.3%）",
+    "price_status": "深度踏空（+42.4%）",
     "reprice_reason": "深度踏空，原买点逻辑失效；若板块仍强则重定价（新支撑位+止损上移+仓位下调），否则标 missed",
-    "trailing_stop_suggestion": 3.96,
-    "reprice_date": "2026-08-25"
+    "trailing_stop_suggestion": 3.8,
+    "reprice_date": "2026-08-26"
   },
   {
     "code": "sz000739",
@@ -681,12 +685,12 @@
       "创新药",
       "兽药"
     ],
-    "price": 20.82,
-    "prev_close": 19.71,
-    "change_pct": 5.63,
+    "price": 20.83,
+    "prev_close": 20.87,
+    "change_pct": -0.19,
     "change_5d": 13.0,
     "change_20d": 15.0,
-    "volume": 187765,
+    "volume": 92345,
     "turnover_pct": 2.23,
     "pe_ttm": 29.3,
     "pb": 4.15,
@@ -722,12 +726,12 @@
       "海外政策风险"
     ],
     "buy_low_base": 21.0,
-    "gap_pct": -0.86,
+    "gap_pct": -0.81,
     "entry_type": "wait",
     "price_status": "低于买点，维持等回踩",
     "trailing_stop_suggestion": null,
     "reprice_reason": "现价在买点下方或附近，原买点有效，维持等待回踩",
-    "reprice_date": "2026-08-25"
+    "reprice_date": "2026-08-26"
   },
   {
     "code": "sh603087",
@@ -741,12 +745,12 @@
       "糖尿病用药",
       "国产替代"
     ],
-    "price": 68.62,
-    "prev_close": 65.47,
-    "change_pct": 4.81,
+    "price": 71.49,
+    "prev_close": 68.78,
+    "change_pct": 3.94,
     "change_5d": 11.5,
     "change_20d": 25.0,
-    "volume": 106205,
+    "volume": 89234,
     "turnover_pct": 2.16,
     "pe_ttm": 44.14,
     "pb": 4.02,
@@ -775,20 +779,22 @@
       "重组胰岛素",
       "医药强持续",
       "60日新高",
-      "放量突破"
+      "放量突破",
+      "回踩至买点附近"
     ],
     "risks": [
       "8/12 已 +5% 离买点仅 4.2%，若继续上涨可能错失买点",
       "PE 30.5 偏高",
       "需等待回踩 75.0-76.5 区间",
-      "若板块持续性回落则需重新评估"
+      "若板块持续性回落则需重新评估",
+      "回升至71.49接近买点75.0，若续跌可关注"
     ],
     "buy_low_base": 75.0,
-    "gap_pct": -8.51,
+    "gap_pct": -4.68,
     "entry_type": "wait",
     "price_status": "低于买点，维持等回踩",
-    "trailing_stop_suggestion": null,
+    "trailing_stop_suggestion": 65.77,
     "reprice_reason": "现价在买点下方或附近，原买点有效，维持等待回踩",
-    "reprice_date": "2026-08-25"
+    "reprice_date": "2026-08-26"
   }
 ]
