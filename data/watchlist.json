@@ -179,7 +179,7 @@
     "price_status": "明显踏空（+15.7%）",
     "reprice_reason": "明显踏空，触发重新定价评审：基于技术支撑位设新买点，止损同步上移，仓位下调；估值锚型须谨慎",
     "trailing_stop_suggestion": null,
-    "reprice_date": "2026-09-03"
+    "reprice_date": "2026-09-04"
   },
   {
     "code": "sh601231",
@@ -240,7 +240,7 @@
     "price_status": "明显踏空（+16.4%）",
     "reprice_reason": "明显踏空，触发重新定价评审：基于技术支撑位设新买点，止损同步上移，仓位下调；估值锚型须谨慎",
     "trailing_stop_suggestion": null,
-    "reprice_date": "2026-09-03"
+    "reprice_date": "2026-09-04"
   },
   {
     "code": "sz002534",
@@ -298,7 +298,7 @@
     "price_status": "明显踏空（+22.4%）",
     "reprice_reason": "明显踏空，触发重新定价评审：基于技术支撑位设新买点，止损同步上移，仓位下调；估值锚型须谨慎",
     "trailing_stop_suggestion": 15.2,
-    "reprice_date": "2026-09-03"
+    "reprice_date": "2026-09-04"
   },
   {
     "code": "sz002498",
@@ -420,7 +420,7 @@
     "price_status": "明显踏空（+25.9%）",
     "reprice_reason": "明显踏空，触发重新定价评审：基于技术支撑位设新买点，止损同步上移，仓位下调；估值锚型须谨慎",
     "trailing_stop_suggestion": null,
-    "reprice_date": "2026-09-03"
+    "reprice_date": "2026-09-04"
   },
   {
     "code": "sh600468",
