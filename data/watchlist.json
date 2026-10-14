@@ -10,7 +10,7 @@
       "电网设备",
       "电力物联网"
     ],
-    "price": 22.75,
+    "price": 22.04,
     "prev_close": 22.98,
     "change_pct": -1.0,
     "change_5d": 3.0,
@@ -30,9 +30,9 @@
     "buy_low": 24.3,
     "sell_high": 33.0,
     "stop_loss": 21.8,
-    "score": 89,
-    "rating": "强推",
-    "health": "healthy",
+    "score": 69,
+    "rating": "备选",
+    "health": "warning",
     "analysis": {
       "fundamental": "智能电表/电力物联网龙头。PE 18.78 电网板块最低，全球智能电表需求爆发。股息率约3%。今日-1.60%正常回调。",
       "technical": "今日-1.60%缩量回调至25.14，仍站上10日线。量比正常，趋势健康。",
@@ -52,12 +52,12 @@
       "主力资金流出"
     ],
     "buy_low_base": 24.3,
-    "gap_pct": -6.38,
+    "gap_pct": -9.3,
     "entry_type": "wait",
     "price_status": "低于买点，维持等回踩",
     "trailing_stop_suggestion": null,
     "reprice_reason": "现价在买点下方或附近，原买点有效，维持等待回踩",
-    "reprice_date": "2026-09-16"
+    "reprice_date": "2026-10-14"
   },
   {
     "code": "sh601138",
@@ -71,7 +71,7 @@
       "液冷",
       "算力硬件"
     ],
-    "price": 62.34,
+    "price": 52.29,
     "prev_close": 60.8,
     "change_pct": 2.53,
     "change_5d": 20.0,
@@ -90,9 +90,9 @@
     "buy_low": 58.8,
     "sell_high": 82.0,
     "stop_loss": 52.0,
-    "score": 85,
-    "rating": "强推",
-    "health": "healthy",
+    "score": 67,
+    "rating": "备选",
+    "health": "warning",
     "analysis": {
       "fundamental": "全球AI服务器/800G交换机代工龙头。归母净利+102.5%，AI算力订单能见度高。",
       "technical": "今日-3.64%回调至66.19，正常高位获利了结。均线多头排列，偏离10日线缩窄至+9.4%。",
@@ -113,12 +113,12 @@
       "海外AI资本开支节奏"
     ],
     "buy_low_base": 58.8,
-    "gap_pct": 6.02,
+    "gap_pct": -11.07,
     "entry_type": "wait",
-    "price_status": "轻微踏空（+6.0%）",
-    "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
+    "price_status": "低于买点，维持等回踩",
+    "reprice_reason": "现价在买点下方或附近，原买点有效，维持等待回踩",
     "trailing_stop_suggestion": null,
-    "reprice_date": "2026-09-16"
+    "reprice_date": "2026-10-14"
   },
   {
     "code": "sz002080",
@@ -132,7 +132,7 @@
       "风电叶片",
       "锂电隔膜"
     ],
-    "price": 55.52,
+    "price": 51.64,
     "prev_close": 53.77,
     "change_pct": 3.25,
     "change_5d": 15.0,
@@ -152,8 +152,8 @@
     "buy_low": 45.5,
     "sell_high": 62.0,
     "stop_loss": 41.5,
-    "score": 82,
-    "rating": "强推",
+    "score": 62,
+    "rating": "备选",
     "health": "healthy",
     "analysis": {
       "fundamental": "风电叶片+玻纤+锂电隔膜。归母净利+103.8%，扣非+234.5%，低介电电子布受益AI PCB需求。",
@@ -174,11 +174,11 @@
       "锂电隔膜价格竞争"
     ],
     "buy_low_base": 45.5,
-    "gap_pct": 22.02,
-    "entry_type": "reprice",
-    "price_status": "明显踏空（+22.0%）",
-    "reprice_reason": "明显踏空，触发重新定价评审：基于技术支撑位设新买点，止损同步上移，仓位下调；估值锚型须谨慎",
-    "trailing_stop_suggestion": 51.08,
+    "gap_pct": 13.49,
+    "entry_type": "wait",
+    "price_status": "轻微踏空（+13.5%）",
+    "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
+    "trailing_stop_suggestion": null,
     "reprice_date": "2026-10-14"
   },
   {
@@ -193,7 +193,7 @@
       "苹果产业链",
       "AI终端"
     ],
-    "price": 26.22,
+    "price": 22.5,
     "prev_close": 24.96,
     "change_pct": 5.05,
     "change_5d": 13.0,
@@ -212,8 +212,8 @@
     "buy_low": 23.5,
     "sell_high": 32.5,
     "stop_loss": 21.2,
-    "score": 78,
-    "rating": "推荐",
+    "score": 66,
+    "rating": "备选",
     "health": "healthy",
     "analysis": {
       "fundamental": "全球SiP系统级封装领先。归母净利+24.6%，消费电子+AI终端双驱动。",
@@ -235,130 +235,12 @@
       "电子板块降级"
     ],
     "buy_low_base": 23.5,
-    "gap_pct": 11.57,
-    "entry_type": "wait",
-    "price_status": "轻微踏空（+11.6%）",
-    "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
-    "trailing_stop_suggestion": null,
-    "reprice_date": "2026-09-16"
-  },
-  {
-    "code": "sz002534",
-    "name": "西子洁能",
-    "full_code": "002534.SZ",
-    "market": "深主板",
-    "sector": "电力设备/锅炉",
-    "concept": [
-      "锅炉",
-      "电力设备",
-      "清洁能源"
-    ],
-    "price": 15.39,
-    "prev_close": 15.35,
-    "change_pct": 0.26,
-    "change_5d": 18.0,
-    "change_20d": -2.0,
-    "volume": 73389,
-    "turnover_pct": 0.89,
-    "pe_ttm": 29.49,
-    "pb": 2.34,
-    "market_cap": 130.66,
-    "ma10": 15.74,
-    "above_ma10": false,
-    "limit_up_count_7d": 1,
-    "limit_up_dates": [
-      "2026-07-30"
-    ],
-    "buy_low": 13.5,
-    "sell_high": 16.5,
-    "stop_loss": 13.5,
-    "score": 79,
-    "rating": "推荐",
-    "health": "healthy",
-    "analysis": {
-      "fundamental": "锅炉/余热利用龙头。现金流7.62亿充裕，PE 28.71低估值。",
-      "technical": "今日+0.89%微涨15.93，距卖出上沿16.5仅-3.6%！极近止盈线。",
-      "sector": "电力设备72分（中强）。板块降温。",
-      "valuation": "PE 28.71（5年12%分位低估），PB 2.28（5%分位低估）。"
-    },
-    "action": "sell",
-    "tags": [
-      "突破卖点",
-      "低估值",
-      "止盈",
-      "站上10日线"
-    ],
-    "risks": [
-      "已突破卖点16.5，建议立即止盈",
-      "电力设备板块降温"
-    ],
-    "buy_low_base": 12.5,
-    "gap_pct": 14.0,
-    "entry_type": "wait",
-    "price_status": "轻微踏空（+14.0%）",
-    "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
-    "trailing_stop_suggestion": 14.16,
-    "reprice_date": "2026-09-16"
-  },
-  {
-    "code": "sz002498",
-    "name": "汉缆股份",
-    "full_code": "002498.SZ",
-    "market": "深主板",
-    "sector": "电力设备/电缆",
-    "concept": [
-      "海缆",
-      "电网设备",
-      "特高压"
-    ],
-    "price": 6.62,
-    "prev_close": 6.54,
-    "change_pct": 1.22,
-    "change_5d": 1.5,
-    "change_20d": 20.0,
-    "volume": 1485050,
-    "turnover_pct": 4.46,
-    "pe_ttm": 38.99,
-    "pb": 2.56,
-    "market_cap": 222.56,
-    "ma10": 6.77,
-    "above_ma10": true,
-    "limit_up_count_7d": 3,
-    "limit_up_dates": [
-      "2026-07-23",
-      "2026-07-24",
-      "2026-07-29"
-    ],
-    "buy_low": 6.9,
-    "sell_high": 8.5,
-    "stop_loss": 6.4,
-    "score": 76,
-    "rating": "推荐",
-    "health": "warning",
-    "analysis": {
-      "fundamental": "海缆+陆缆双主业，流动性充足。",
-      "technical": "今日-0.57%微跌6.97，缩量回调。站上10日线但动能衰减。",
-      "sector": "电网设备70分（中强↓）。板块降级。",
-      "valuation": "PE 42.25偏高，3连板后动能衰减。"
-    },
-    "action": "hold",
-    "tags": [
-      "海缆",
-      "跌破10日线",
-      "止损极近"
-    ],
-    "risks": [
-      "PE 42偏高",
-      "距买点-8.3%",
-      "距止损-1.3%需密切观察"
-    ],
-    "buy_low_base": 5.8,
-    "gap_pct": -4.06,
+    "gap_pct": -4.26,
     "entry_type": "wait",
     "price_status": "低于买点，维持等回踩",
-    "trailing_stop_suggestion": null,
     "reprice_reason": "现价在买点下方或附近，原买点有效，维持等待回踩",
-    "reprice_date": "2026-09-16"
+    "trailing_stop_suggestion": null,
+    "reprice_date": "2026-10-14"
   },
   {
     "code": "sh600601",
@@ -372,7 +254,7 @@
       "国企改革",
       "华为概念"
     ],
-    "price": 15.1,
+    "price": 12.1,
     "prev_close": 14.54,
     "change_pct": 3.85,
     "change_5d": 18.0,
@@ -392,7 +274,7 @@
     "buy_low": 10.0,
     "sell_high": 15.0,
     "stop_loss": 9.0,
-    "score": 74,
+    "score": 71,
     "rating": "推荐",
     "health": "healthy",
     "analysis": {
@@ -401,7 +283,7 @@
       "sector": "电子70分（中强↓，从77降级）。板块整体降级。",
       "valuation": "PE 88/PB 11.27极高。估值偏高但增速高。"
     },
-    "action": "review",
+    "action": "watch",
     "tags": [
       "PCB",
       "业绩反转",
@@ -415,11 +297,11 @@
       "板块降级至70分"
     ],
     "buy_low_base": 10.0,
-    "gap_pct": 51.0,
+    "gap_pct": 21.0,
     "entry_type": "reprice",
-    "price_status": "深度踏空（+51.0%）",
-    "reprice_reason": "深度踏空，原买点逻辑失效；若板块仍强则重定价（新支撑位+止损上移+仓位下调），否则标 missed",
-    "trailing_stop_suggestion": 13.89,
+    "price_status": "明显踏空（+21.0%）",
+    "reprice_reason": "明显踏空，触发重新定价评审：基于技术支撑位设新买点，止损同步上移，仓位下调；估值锚型须谨慎",
+    "trailing_stop_suggestion": null,
     "reprice_date": "2026-10-14"
   },
   {
@@ -433,7 +315,7 @@
       "超导",
       "电气"
     ],
-    "price": 6.42,
+    "price": 5.99,
     "prev_close": 6.37,
     "change_pct": 0.79,
     "change_5d": 16.0,
@@ -453,9 +335,9 @@
     "buy_low": 5.9,
     "sell_high": 9.0,
     "stop_loss": 5.5,
-    "score": 68,
-    "rating": "备选",
-    "health": "warning",
+    "score": 70,
+    "rating": "推荐",
+    "health": "healthy",
     "analysis": {
       "fundamental": "电气设备/超导概念。ROE 4.09%偏低，PE 88.74极高。",
       "technical": "今日-3.80%大跌至6.33，缩量回调。站上10日线+5.5%。",
@@ -475,12 +357,12 @@
       "若续跌→剔除"
     ],
     "buy_low_base": 5.8,
-    "gap_pct": 8.81,
+    "gap_pct": 1.53,
     "entry_type": "wait",
-    "price_status": "轻微踏空（+8.8%）",
+    "price_status": "轻微踏空（+1.5%）",
     "trailing_stop_suggestion": null,
     "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
-    "reprice_date": "2026-09-16"
+    "reprice_date": "2026-10-14"
   },
   {
     "code": "sh600267",
@@ -494,7 +376,7 @@
       "原料药",
       "减肥药"
     ],
-    "price": 11.35,
+    "price": 11.52,
     "prev_close": 11.3,
     "change_pct": 0.44,
     "change_5d": 16.0,
@@ -514,8 +396,8 @@
     "buy_low": 12.0,
     "sell_high": 17.0,
     "stop_loss": 10.5,
-    "score": 86,
-    "rating": "强推",
+    "score": 73,
+    "rating": "推荐",
     "health": "healthy",
     "analysis": {
       "fundamental": "老牌医药龙头。归母净利+83.1%，PE 22/PB 1.82双低。医药88分强持续。",
@@ -536,12 +418,12 @@
       "缩量回调正常"
     ],
     "buy_low_base": 12.0,
-    "gap_pct": -5.42,
+    "gap_pct": -4.0,
     "entry_type": "wait",
     "price_status": "低于买点，维持等回踩",
     "reprice_reason": "现价在买点下方或附近，原买点有效，维持等待回踩",
     "trailing_stop_suggestion": null,
-    "reprice_date": "2026-09-16"
+    "reprice_date": "2026-10-14"
   },
   {
     "code": "sz000739",
@@ -555,7 +437,7 @@
       "创新药",
       "兽药"
     ],
-    "price": 22.62,
+    "price": 24.76,
     "prev_close": 22.37,
     "change_pct": 1.12,
     "change_5d": 13.0,
@@ -574,8 +456,8 @@
     "buy_low": 21.0,
     "sell_high": 30.0,
     "stop_loss": 19.0,
-    "score": 71,
-    "rating": "推荐",
+    "score": 65,
+    "rating": "备选",
     "health": "healthy",
     "analysis": {
       "fundamental": "CDMO+原料药+创新药龙头。277亿中等市值。医药88分强持续。",
@@ -596,12 +478,12 @@
       "海外政策风险"
     ],
     "buy_low_base": 21.0,
-    "gap_pct": 7.71,
-    "entry_type": "wait",
-    "price_status": "轻微踏空（+7.7%）",
+    "gap_pct": 17.9,
+    "entry_type": "reprice",
+    "price_status": "明显踏空（+17.9%）",
     "trailing_stop_suggestion": null,
-    "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
-    "reprice_date": "2026-09-16"
+    "reprice_reason": "明显踏空，触发重新定价评审：基于技术支撑位设新买点，止损同步上移，仓位下调；估值锚型须谨慎",
+    "reprice_date": "2026-10-14"
   },
   {
     "code": "sh603087",
@@ -615,7 +497,7 @@
       "糖尿病用药",
       "国产替代"
     ],
-    "price": 68.87,
+    "price": 72.0,
     "prev_close": 68.88,
     "change_pct": -0.01,
     "change_5d": 11.5,
@@ -634,9 +516,9 @@
     "buy_low": 75.0,
     "sell_high": 84.0,
     "stop_loss": 70.0,
-    "score": 81,
-    "rating": "强推",
-    "health": "healthy",
+    "score": 68,
+    "rating": "备选",
+    "health": "warning",
     "analysis": {
       "fundamental": "重组胰岛素类似物龙头。Q1 2026 净利 1.92 亿，EPS 0.33，扣非稳健。糖尿病胰岛素国产替代核心标的，IPO 2020-06-29（老股，非次新）。",
       "technical": "8/12 放量 +5.0% 至 78.21 元，60 日新高 79.99 元。8/11 涨停启动第二波，MA10 76.3 站上。换手 6.55% 健康。",
@@ -656,11 +538,182 @@
       "需等待进一步回调"
     ],
     "buy_low_base": 75.0,
-    "gap_pct": -8.17,
+    "gap_pct": -4.0,
     "entry_type": "wait",
     "price_status": "低于买点，维持等回踩",
-    "trailing_stop_suggestion": null,
+    "trailing_stop_suggestion": 66.24,
     "reprice_reason": "现价在买点下方或附近，原买点有效，维持等待回踩",
-    "reprice_date": "2026-09-16"
+    "reprice_date": "2026-10-14"
+  },
+  {
+    "code": "sh600593",
+    "name": "大连圣亚",
+    "full_code": "600593.SH",
+    "market": "沪主板",
+    "sector": "旅游及景区",
+    "concept": [
+      "旅游景区",
+      "东北振兴",
+      "冰雪旅游"
+    ],
+    "price": 49.83,
+    "prev_close": 45.3,
+    "change_pct": 10.0,
+    "change_5d": 3.7,
+    "change_20d": 20.8,
+    "pe_ttm": 109.48,
+    "market_cap": 64.2,
+    "ma10": 46.2,
+    "above_ma10": true,
+    "limit_up_count_7d": 1,
+    "limit_up_dates": [
+      "2026-10-13"
+    ],
+    "buy_low": 45.3,
+    "sell_high": 58.0,
+    "stop_loss": 42.0,
+    "score": 80,
+    "rating": "推荐",
+    "health": "healthy",
+    "analysis": {
+      "fundamental": "2026H1归母净利同比+201.99%，Q2同比+106.58%，ROE 7.69%，净利率13.71%。盈利拐点确认。",
+      "technical": "10/13放量涨停+10.0%收49.83，换手9.15%，20日+20.8%处于上升趋势。涨停后需回踩确认，不追高。",
+      "sector": "旅游及景区板块10/13+3.18%领涨，个股为板块龙头(leader)，板块效应明确。",
+      "valuation": "PE(TTM) 109.48偏高，因净利基数小(1621万)；市值64亿小盘，波动大需控仓。"
+    },
+    "action": "watch",
+    "tags": [
+      "净利高增",
+      "景区龙头",
+      "主板合规",
+      "涨停"
+    ],
+    "risks": [
+      "PE 109偏高",
+      "净利绝对额小(1621万)",
+      "旅游板块20日-9.86%中期偏弱",
+      "涨停后追高风险"
+    ],
+    "buy_low_base": 45.3,
+    "gap_pct": 10.0,
+    "entry_type": "wait",
+    "price_status": "轻微踏空（+10.0%）",
+    "trailing_stop_suggestion": 45.84,
+    "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
+    "reprice_date": "2026-10-14"
+  },
+  {
+    "code": "sh600391",
+    "name": "航发科技",
+    "full_code": "600391.SH",
+    "market": "沪主板",
+    "sector": "航空装备Ⅱ/军工",
+    "concept": [
+      "航空发动机",
+      "军工",
+      "地面兵装"
+    ],
+    "price": 38.78,
+    "prev_close": 35.25,
+    "change_pct": 10.01,
+    "change_5d": -5.23,
+    "change_20d": 2.16,
+    "pe_ttm": 225.76,
+    "market_cap": 128.0,
+    "ma10": 36.1,
+    "above_ma10": true,
+    "limit_up_count_7d": 1,
+    "limit_up_dates": [
+      "2026-10-13"
+    ],
+    "buy_low": 35.5,
+    "sell_high": 45.0,
+    "stop_loss": 33.0,
+    "score": 69,
+    "rating": "备选",
+    "health": "warning",
+    "analysis": {
+      "fundamental": "2026H1归母净利同比-40.81%(未破-50%红线但偏弱)，Q2同比+161.69%环比改善。PE(TTM) 225.76极高。",
+      "technical": "10/13涨停+10.01%收38.78，换手6.61%，量比2.0放量。但5日-5.23%，技术分52.06偏弱。",
+      "sector": "航空装备Ⅱ 10/13+3.55%、地面兵装Ⅱ+5.08%领涨全市场，军工板块效应最强(一级+2.08%连续3日回升)。",
+      "valuation": "PE 225.76极高，估值透支明显，安全边际低。"
+    },
+    "action": "watch",
+    "tags": [
+      "军工",
+      "航空发动机",
+      "板块效应最强",
+      "涨停"
+    ],
+    "risks": [
+      "PE 225.76极高",
+      "净利同比-40.81%",
+      "技术分52.06偏弱",
+      "军工首日爆发未验证持续性"
+    ],
+    "buy_low_base": 35.5,
+    "gap_pct": 9.24,
+    "entry_type": "wait",
+    "price_status": "轻微踏空（+9.2%）",
+    "trailing_stop_suggestion": 35.68,
+    "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
+    "reprice_date": "2026-10-14"
+  },
+  {
+    "code": "sz000823",
+    "name": "超声电子",
+    "full_code": "000823.SZ",
+    "market": "深主板",
+    "sector": "元件/覆铜板",
+    "concept": [
+      "PCB",
+      "覆铜板",
+      "元件"
+    ],
+    "price": 22.32,
+    "prev_close": 20.29,
+    "change_pct": 10.0,
+    "change_5d": -8.52,
+    "change_20d": 40.03,
+    "pe_ttm": 60.06,
+    "market_cap": 119.8,
+    "ma10": 21.4,
+    "above_ma10": true,
+    "limit_up_count_7d": 1,
+    "limit_up_dates": [
+      "2026-10-13"
+    ],
+    "buy_low": 20.3,
+    "sell_high": 26.0,
+    "stop_loss": 19.0,
+    "score": 66,
+    "rating": "备选",
+    "health": "warning",
+    "analysis": {
+      "fundamental": "2026H1归母净利同比-1.17%(基本持平)，Q2营收同比+13.02%，净利1.13亿，ROE 2.04%。基本面最稳健。",
+      "technical": "10/13涨停+10.0%收22.32，换手6.94%，20日+40.03%强势；但技术分50.30、周环比-25.03明显恶化。",
+      "sector": "元件板块10/13+2.97%、覆铜板+4.44%，但元件5日主力资金大幅净流出，持续性存疑。",
+      "valuation": "PE(TTM) 60.06偏高，ROE仅2.04%偏低。"
+    },
+    "action": "watch",
+    "tags": [
+      "PCB",
+      "覆铜板",
+      "营收增长",
+      "涨停"
+    ],
+    "risks": [
+      "技术分50.30周环比-25.03恶化",
+      "元件板块5日资金大幅流出",
+      "ROE 2.04%偏低",
+      "5日-8.52%回调"
+    ],
+    "buy_low_base": 20.3,
+    "gap_pct": 9.95,
+    "entry_type": "wait",
+    "price_status": "轻微踏空（+10.0%）",
+    "trailing_stop_suggestion": 20.53,
+    "reprice_reason": "涨离买点未超15%，维持原买点观察，不重估（纪律优先，不追高）",
+    "reprice_date": "2026-10-14"
   }
 ]
