@@ -122,7 +122,7 @@
     "price_status": "明显踏空（+17.5%）",
     "reprice_reason": "明显踏空，触发重新定价评审：基于技术支撑位设新买点，止损同步上移，仓位下调；估值锚型须谨慎",
     "trailing_stop_suggestion": null,
-    "reprice_date": "2026-10-23"
+    "reprice_date": "2026-10-26"
   },
   {
     "code": "sz000739",
@@ -239,7 +239,7 @@
     "price_status": "踏空放弃（+18.3%，板块偏弱）",
     "trailing_stop_suggestion": 38.63,
     "reprice_reason": "明显踏空且板块/逻辑偏弱（health=warning），不追高，移出待买队列（逻辑未坏仅价位不合适）",
-    "reprice_date": "2026-10-23",
+    "reprice_date": "2026-10-26",
     "pb": 7.74,
     "turnover_pct": 6.22
   },
